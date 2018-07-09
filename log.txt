@@ -1,0 +1,1311 @@
+server errorError: Unknown column 'user_name' in 'where clause'
+{"request":{"method":"POST","url":"/api/login","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/login","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","content-length":"37","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/login","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorError: Unknown column 'user_name' in 'where clause'
+{"request":{"method":"POST","url":"/api/login","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/login","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","content-length":"37","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/login","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/login 230ms 
+POST /api/login 187ms 
+POST /api/listSort 39ms 
+POST /api/listArticle 47ms 
+POST /api/register 1308ms 
+POST /api/login 111ms 
+POST /api/login 116ms 
+POST /api/listArticle 11ms 
+POST /api/listSort 12ms 
+POST /api/register 30ms 
+POST /api/register 484ms 
+POST /api/register 344ms 
+POST /api/register 262ms 
+POST /api/register 2197ms 
+GET /api/active/testa/$2a$10$458ldAqX73A5ZRtykdU0ke6ekn6Rf.29rgSxPvvH8g833LfPOCSq 67ms 
+GET /index.html 6ms 
+GET /favicon.ico 2ms 
+GET /index.html 1ms 
+GET /api/active/testa/$2a$10$458ldAqX73A5ZRtykdU0ke6ekn6Rf.29rgSxPvvH8g833LfPOCSq 9ms 
+GET /index.html 2ms 
+GET /api/active/testa/$2a$10$458ldAqX73A5ZRtykdU0ke6ekn6Rf.29rgSxPvvH8g833LfPOCSq 47ms 
+GET /index.html 6ms 
+GET /api/active/testa/$2a$10$458ldAqX73A5ZRtykdU0ke6ekn6Rf.29rgSxPvvH8g833LfPOCSq 50ms 
+GET /index.html 5ms 
+POST /api/login 140ms 
+POST /api/listArticle 13ms 
+POST /api/listSort 14ms 
+POST /api/login 127ms 
+POST /api/listSort 7ms 
+POST /api/listArticle 9ms 
+POST /api/listSort 6ms 
+POST /api/listArticle 12ms 
+POST /api/login 121ms 
+POST /api/listArticle 8ms 
+POST /api/listSort 16ms 
+POST /api/login 121ms 
+POST /api/listArticle 6ms 
+POST /api/listSort 9ms 
+POST /api/listArticle 0ms 
+【token验证错误！】POST /api/listSort 0ms 
+【token验证错误！】POST /api/login 108ms 
+POST /api/login 125ms 
+POST /api/login 117ms 
+POST /api/listArticle 9ms 
+POST /api/listSort 22ms 
+POST /api/listSort 5ms 
+POST /api/listArticle 19ms 
+POST /api/listArticle 0ms 
+【token验证错误！】POST /api/listSort 0ms 
+【token验证错误！】【token验证错误！】POST /api/listSort 0ms 
+【token验证错误！】POST /api/listSort 1ms 
+【token验证错误！】POST /api/listSort 0ms 
+【token验证错误！】POST /api/listSort 0ms 
+【token验证错误！】POST /api/listSort 0ms 
+【token验证错误！】POST /api/listSort 0ms 
+【token验证错误！】POST /api/listSort 0ms 
+【token验证错误！】POST /api/listSort 1ms 
+【token已过期,请重新登录！】POST /api/listSort 9ms 
+【token已过期,请重新登录！】POST /api/listSort 4ms 
+【token已过期,请重新登录！】POST /api/listSort 0ms 
+POST /api/listSort 3ms 
+【undefined】【undefined】POST /api/listSort 3ms 
+【undefined】POST /api/listSort 0ms 
+【未登录！】POST /api/listSort 4ms 
+【未登录！】POST /api/listSort 0ms 
+POST /api/login 198ms 
+POST /api/listArticle 18ms 
+POST /api/listSort 20ms 
+【token验证错误！】POST /api/listSort 3ms 
+【token验证错误！】POST /api/listSort 6ms 
+POST /api/login 417ms 
+POST /api/listArticle 37ms 
+POST /api/listArticle 9ms 
+POST /api/listSort 12ms 
+POST /api/listArticle 8ms 
+POST /api/listArticle 48ms 
+POST /api/listSort 9ms 
+POST /api/listArticle 13ms 
+POST /api/listSort 62ms 
+POST /api/listArticle 92ms 
+POST /api/listSort 8ms 
+【token验证错误！】POST /api/listSort 2ms 
+POST /api/login 177ms 
+POST /api/listSort 12ms 
+POST /api/listSort 142ms 
+POST /api/listSort 128ms 
+POST /api/listSort 34ms 
+POST /api/listSort 5ms 
+POST /api/listSort 180ms 
+POST /api/listSort 9ms 
+POST /api/listSort 9ms 
+POST /api/listSort 8ms 
+POST /api/listSort 38ms 
+POST /api/listSort 7ms 
+POST /api/listSort 41ms 
+POST /api/listSort 7ms 
+POST /api/listSort 9ms 
+POST /api/listSort 19ms 
+POST /api/listSort 17ms 
+POST /api/listSort 14ms 
+POST /api/listArticle 18ms 
+POST /api/listSort 15ms 
+POST /api/listArticle 13ms 
+POST /api/listSort 14ms 
+POST /api/listArticle 7ms 
+POST /api/listSort 13ms 
+POST /api/listSort 9ms 
+POST /api/login 130ms 
+POST /api/listSort 7ms 
+POST /api/listSort 9ms 
+POST /api/listSort 43ms 
+POST /api/listSort 7ms 
+POST /api/listArticle 10ms 
+POST /api/listSort 10ms 
+POST /api/listSort 44ms 
+POST /api/listSort 7ms 
+POST /api/listSort 44ms 
+POST /api/listSort 7ms 
+POST /api/listSort 22ms 
+POST /api/listSort 11ms 
+POST /api/listSort 11ms 
+POST /api/listSort 50ms 
+POST /api/listSort 8ms 
+POST /api/listSort 9ms 
+POST /api/listSort 11ms 
+POST /api/listSort 6ms 
+POST /api/listSort 5ms 
+POST /api/listSort 11ms 
+POST /api/listSort 10ms 
+POST /api/listSort 14ms 
+POST /api/listSort 6ms 
+POST /api/listSort 9ms 
+POST /api/listSort 8ms 
+POST /api/listArticle 12ms 
+POST /api/listSort 6ms 
+POST /api/listSort 7ms 
+POST /api/listSort 34ms 
+POST /api/listSort 10ms 
+POST /api/listSort 9ms 
+POST /api/listSort 8ms 
+POST /api/updateSort 46ms 
+POST /api/listArticle 8ms 
+POST /api/listSort 9ms 
+POST /api/listSort 9ms 
+POST /api/updateArticle 46ms 
+POST /api/listSort 6ms 
+POST /api/listArticle 52ms 
+POST /api/listSort 5ms 
+POST /api/getArticleById 16ms 
+POST /api/listSort 9ms 
+POST /api/listArticle 12ms 
+POST /api/login 122ms 
+POST /api/listSort 6ms 
+POST /api/listArticle 10ms 
+POST /api/listSort 15ms 
+POST /api/listSort 13ms 
+POST /api/listUser 7ms 
+POST /api/listArticle 8ms 
+POST /api/listSort 9ms 
+POST /api/listSort 16ms 
+POST /api/listArticle 91ms 
+POST /api/listSort 10ms 
+POST /api/listArticle 10ms 
+POST /api/listSort 19ms 
+POST /api/listSort 8ms 
+POST /api/listArticle 16ms 
+POST /api/passedArticle 63ms 
+POST /api/listSort 11ms 
+POST /api/listArticle 15ms 
+POST /api/passedArticle 32ms 
+POST /api/listSort 8ms 
+POST /api/getArticleById 8ms 
+POST /api/listArticle 12ms 
+POST /api/listSort 9ms 
+POST /api/listSort 8ms 
+POST /api/listArticle 173ms 
+POST /api/listSort 200ms 
+POST /api/listSort 60ms 
+POST /api/listArticle 85ms 
+POST /api/listSort 11ms 
+POST /api/listSort 8ms 
+POST /api/listSort 10ms 
+POST /api/listArticle 14ms 
+POST /api/listUser 10ms 
+POST /api/listArticle 8ms 
+POST /api/listSort 11ms 
+POST /api/listSort 5ms 
+POST /api/listSort 10ms 
+POST /api/listArticle 14ms 
+POST /api/listUser 5ms 
+POST /api/listSort 9ms 
+POST /api/listSort 7ms 
+POST /api/listArticle 11ms 
+POST /api/listSort 43ms 
+POST /api/listArticle 47ms 
+POST /api/listSort 12ms 
+POST /api/listArticle 19ms 
+POST /api/login 169ms 
+POST /api/listArticle 10ms 
+POST /api/listSort 10ms 
+POST /api/listSort 8ms 
+POST /api/listArticle 12ms 
+POST /api/listSort 13ms 
+POST /api/listArticle 9ms 
+POST /api/listSort 11ms 
+POST /api/listSort 18ms 
+POST /api/listSort 10ms 
+POST /api/listSort 10ms 
+POST /api/listSort 7ms 
+POST /api/listSort 6ms 
+POST /api/listSort 305ms 
+POST /api/listSort 14ms 
+POST /api/listSort 11ms 
+POST /api/listSort 8ms 
+POST /api/listSort 8ms 
+POST /api/listArticle 8ms 
+POST /api/listSort 12ms 
+POST /api/listSort 8ms 
+POST /api/listSort 7ms 
+POST /api/listArticle 7ms 
+POST /api/listSort 9ms 
+POST /api/listSort 33ms 
+POST /api/listSort 9ms 
+POST /api/updateSort 37ms 
+POST /api/listArticle 8ms 
+POST /api/listSort 11ms 
+POST /api/listSort 9ms 
+POST /api/listArticle 14ms 
+POST /api/listArticle 7ms 
+POST /api/listSort 12ms 
+POST /api/listSort 10ms 
+POST /api/listArticle 14ms 
+POST /api/listArticle 9ms 
+POST /api/listSort 14ms 
+POST /api/listSort 12ms 
+POST /api/listArticle 9ms 
+POST /api/listSort 14ms 
+POST /api/listSort 4ms 
+POST /api/getArticleById 10ms 
+【token验证错误！】POST /api/listSort 4ms 
+POST /api/login 199ms 
+POST /api/listSort 36ms 
+POST /api/listSort 10ms 
+POST /api/listArticle 19ms 
+POST /api/listSort 24ms 
+POST /api/listArticle 21ms 
+POST /api/listSort 30ms 
+POST /api/listSort 18ms 
+POST /api/listArticle 19ms 
+POST /api/listSort 18ms 
+POST /api/listArticle 25ms 
+POST /api/listArticle 42ms 
+POST /api/listSort 28ms 
+POST /api/listSort 18ms 
+POST /api/listArticle 24ms 
+POST /api/listSort 19ms 
+POST /api/listSort 23ms 
+POST /api/listArticle 27ms 
+POST /api/listSort 13ms 
+POST /api/updateArticle 82ms 
+POST /api/listArticle 18ms 
+POST /api/listSort 29ms 
+POST /api/listSort 21ms 
+POST /api/listArticle 32ms 
+POST /api/listSort 15ms 
+POST /api/listArticle 20ms 
+POST /api/listArticle 22ms 
+POST /api/listSort 29ms 
+POST /api/listSort 132ms 
+POST /api/listArticle 201ms 
+【非法请求链接：/api/listImg】POST /api/listImg 2ms 
+【非法请求链接：/api/listImg】POST /api/listImg 1ms 
+POST /api/listSort 49ms 
+【非法请求链接：/api/listImg】POST /api/listImg 1ms 
+【非法请求链接：/api/listImg】POST /api/listImg 3ms 
+【非法请求链接：/api/listImg】POST /api/listImg 1ms 
+【非法请求链接：/api/listImg】POST /api/listImg 0ms 
+【非法请求链接：/api/listImg】POST /api/listImg 6ms 
+server errorError: Unknown column 'a.id' in 'field list'
+{"request":{"method":"POST","url":"/api/listImg","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/list","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjA2Mjc2LCJleHAiOjE1MzA2MTM0NzZ9.w3aeaDba276MusX5vhCkC3pyS0Ubhl2dPtaNDzgX_P8","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"45","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/listImg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorError: Unknown column 'a.id' in 'field list'
+{"request":{"method":"POST","url":"/api/listImg","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/list","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjA2Mjc2LCJleHAiOjE1MzA2MTM0NzZ9.w3aeaDba276MusX5vhCkC3pyS0Ubhl2dPtaNDzgX_P8","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"45","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/listImg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorError: Unknown column 'a.id' in 'field list'
+{"request":{"method":"POST","url":"/api/listImg","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/list","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjA2Mjc2LCJleHAiOjE1MzA2MTM0NzZ9.w3aeaDba276MusX5vhCkC3pyS0Ubhl2dPtaNDzgX_P8","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"45","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/listImg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/listImg 145ms 
+【token验证错误！】POST /api/listImg 9ms 
+POST /api/login 213ms 
+POST /api/listImg 37ms 
+POST /api/listUser 6ms 
+POST /api/listImg 5ms 
+POST /api/listImg 7ms 
+POST /api/listSort 25ms 
+POST /api/listImg 6ms 
+POST /api/listSort 38ms 
+POST /api/listImg 8ms 
+POST /api/listImg 6ms 
+POST /api/listImg 10ms 
+POST /api/listSort 5ms 
+server errorTypeError: Cannot set property 'prev' of undefined
+{"request":{"method":"POST","url":"/api/getArticleById","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/111","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyLCJ1c2VyX25hbWUiOiJ0ZXN0IiwidXNlcl90eXBlIjoxLCJ1c2VyX2VtYWlsIjoiODg4ODg4ODhAcXEuY29tIiwiY3JlYXRlX3RpbWUiOiIyMDE4LTA3LTAyVDAyOjA2OjE2LjAwMFoiLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMjowNzoxOS4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjY2NDc0LCJleHAiOjE1MzA2NzM2NzR9.JqW2XHdobEtq4c3zQpGf603atXRkTmvSumI3MOhtMA8","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"6","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/getArticleById","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/listImg 5ms 
+POST /api/listImg 7ms 
+POST /api/listImg 19ms 
+POST /api/listSort 39ms 
+【非法请求链接：/api/getImgById】POST /api/getImgById 0ms 
+POST /api/listSort 47ms 
+POST /api/getImgById 11ms 
+POST /api/listSort 12ms 
+POST /api/getImgById 23ms 
+POST /api/listSort 10ms 
+POST /api/getImgById 9ms 
+POST /api/listSort 7ms 
+POST /api/getImgById 13ms 
+POST /api/listSort 29ms 
+POST /api/getImgById 7ms 
+POST /api/listSort 21ms 
+POST /api/getImgById 15ms 
+POST /api/listImg 56ms 
+POST /api/listUpFile 51ms 
+POST /api/listUpFile 19ms 
+POST /api/listSort 6ms 
+POST /api/listSort 4ms 
+POST /api/listSort 7ms 
+POST /api/listSort 6ms 
+POST /api/upFile 0ms 
+【token验证错误！】POST /api/listSort 5ms 
+【token验证错误！】POST /api/upFile 0ms 
+POST /api/listSort 10ms 
+POST /api/listSort 39ms 
+POST /api/upFile 91ms 
+GET /upFile/1530672478584.png 17ms 
+GET /favicon.ico 2ms 
+POST /api/listSort 57ms 
+POST /api/listSort 9ms 
+POST /api/listImg 7ms 
+POST /api/listSort 5ms 
+POST /api/upFile 74ms 
+POST /api/listSort 8ms 
+POST /api/upFile 61ms 
+POST /api/listSort 6ms 
+POST /api/upFile 53ms 
+server errorTypeError: Cannot read property 'slice' of undefined
+{"request":{"method":"POST","url":"/api/updateArticle","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/add","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyLCJ1c2VyX25hbWUiOiJ0ZXN0IiwidXNlcl90eXBlIjoxLCJ1c2VyX2VtYWlsIjoiODg4ODg4ODhAcXEuY29tIiwiY3JlYXRlX3RpbWUiOiIyMDE4LTA3LTAyVDAyOjA2OjE2LjAwMFoiLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMjowNzoxOS4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjY2NDc0LCJleHAiOjE1MzA2NzM2NzR9.JqW2XHdobEtq4c3zQpGf603atXRkTmvSumI3MOhtMA8","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"212","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/updateArticle","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/listSort 42ms 
+POST /api/upFile 64ms 
+server errorTypeError: Cannot read property 'slice' of undefined
+{"request":{"method":"POST","url":"/api/updateArticle","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/add","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyLCJ1c2VyX25hbWUiOiJ0ZXN0IiwidXNlcl90eXBlIjoxLCJ1c2VyX2VtYWlsIjoiODg4ODg4ODhAcXEuY29tIiwiY3JlYXRlX3RpbWUiOiIyMDE4LTA3LTAyVDAyOjA2OjE2LjAwMFoiLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMjowNzoxOS4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjY2NDc0LCJleHAiOjE1MzA2NzM2NzR9.JqW2XHdobEtq4c3zQpGf603atXRkTmvSumI3MOhtMA8","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"157","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/updateArticle","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/listSort 41ms 
+POST /api/upFile 62ms 
+server errorError: Incorrect arguments to mysqld_stmt_execute
+{"request":{"method":"POST","url":"/api/updateImg","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/add","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyLCJ1c2VyX25hbWUiOiJ0ZXN0IiwidXNlcl90eXBlIjoxLCJ1c2VyX2VtYWlsIjoiODg4ODg4ODhAcXEuY29tIiwiY3JlYXRlX3RpbWUiOiIyMDE4LTA3LTAyVDAyOjA2OjE2LjAwMFoiLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMjowNzoxOS4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjY2NDc0LCJleHAiOjE1MzA2NzM2NzR9.JqW2XHdobEtq4c3zQpGf603atXRkTmvSumI3MOhtMA8","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"211","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/updateImg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/listSort 67ms 
+POST /api/upFile 77ms 
+POST /api/updateImg 41ms 
+POST /api/listImg 6ms 
+POST /api/listImg 20ms 
+POST /api/listImg 71ms 
+POST /api/listSort 5ms 
+POST /api/getImgById 6ms 
+POST /api/upFile 59ms 
+POST /api/listSort 8ms 
+POST /api/getImgById 7ms 
+POST /api/upFile 36ms 
+POST /api/listSort 5ms 
+POST /api/getImgById 7ms 
+POST /api/upFile 59ms 
+POST /api/listSort 5ms 
+POST /api/getImgById 6ms 
+POST /api/upFile 39ms 
+POST /api/listSort 28ms 
+POST /api/getImgById 14ms 
+POST /api/upFile 31ms 
+POST /api/upFile 38ms 
+POST /api/listSort 6ms 
+POST /api/getImgById 37ms 
+【token验证错误！】POST /api/listSort 1ms 
+POST /api/login 133ms 
+POST /api/listSort 7ms 
+POST /api/getImgById 7ms 
+POST /api/listSort 15ms 
+POST /api/getImgById 10ms 
+GET /index.html 8ms 
+POST /api/listSort 7ms 
+POST /api/getImgById 12ms 
+GET /upFile/%7B%22pic%22:%221530673270892.png%22%7D 1ms 
+POST /api/upFile 57ms 
+GET /upFile/1530673839886.png 2ms 
+POST /api/updateImg 33ms 
+POST /api/listImg 5ms 
+GET /index.html 0ms 
+POST /api/listSort 5ms 
+POST /api/getImgById 6ms 
+GET /index.html 1ms 
+POST /api/listSort 10ms 
+POST /api/getImgById 8ms 
+GET /upFile/1530673839886.png 1ms 
+GET /index.html 1ms 
+POST /api/listSort 7ms 
+POST /api/getImgById 6ms 
+GET /upFile/1530673839886.png 1ms 
+POST /api/listSort 9ms 
+POST /api/getImgById 8ms 
+GET /index.html 1ms 
+POST /api/listSort 26ms 
+POST /api/getImgById 7ms 
+GET /upFile/1530673839886.png 1ms 
+GET /index.html 2ms 
+POST /api/listSort 9ms 
+POST /api/getImgById 9ms 
+GET /upFile/1530673839886.png 1ms 
+GET /index.html 1ms 
+POST /api/listSort 7ms 
+POST /api/getImgById 9ms 
+GET /upFile/1530673839886.png 1ms 
+GET /index.html 0ms 
+POST /api/listSort 7ms 
+POST /api/getImgById 15ms 
+GET /upFile/1530673839886.png 1ms 
+GET /index.html 1ms 
+POST /api/listSort 9ms 
+POST /api/getImgById 15ms 
+GET /upFile/1530673839886.png 1ms 
+GET /index.html 0ms 
+POST /api/listSort 27ms 
+POST /api/getImgById 14ms 
+GET /upFile/1530673839886.png 0ms 
+GET /index.html 0ms 
+POST /api/listSort 15ms 
+POST /api/getImgById 8ms 
+GET /upFile/1530673839886.png 15ms 
+POST /api/listSort 24ms 
+POST /api/getImgById 10ms 
+GET /index.html 1ms 
+POST /api/listSort 6ms 
+POST /api/getImgById 11ms 
+GET /upFile/1530673839886.png 1ms 
+GET /index.html 0ms 
+POST /api/listSort 14ms 
+POST /api/getImgById 9ms 
+GET /upFile/1530673839886.png 4ms 
+GET /index.html 2ms 
+POST /api/listSort 32ms 
+POST /api/getImgById 6ms 
+GET /upFile/1530673839886.png 2ms 
+GET /index.html 1ms 
+POST /api/listSort 10ms 
+POST /api/getImgById 10ms 
+GET /upFile/1530673839886.png 0ms 
+GET /index.html 0ms 
+POST /api/listSort 5ms 
+POST /api/getImgById 10ms 
+GET /upFile/1530673839886.png 1ms 
+POST /api/upFile 60ms 
+GET /upFile/1530675302414.ico 1ms 
+POST /api/upFile 34ms 
+GET /upFile/1530675304016.png 2ms 
+POST /api/upFile 50ms 
+GET /upFile/1530675307168.jpg 1ms 
+POST /api/updateImg 28ms 
+POST /api/listImg 27ms 
+GET /index.html 3ms 
+POST /api/listSort 12ms 
+POST /api/getImgById 10ms 
+GET /index.html 1ms 
+POST /api/listSort 5ms 
+POST /api/getImgById 5ms 
+GET /upFile/1530675307168.jpg 1ms 
+POST /api/listImg 10ms 
+POST /api/listImg 35ms 
+POST /api/listImg 36ms 
+POST /api/deleteImg 32ms 
+POST /api/listImg 4ms 
+GET /index.html 9ms 
+POST /api/listSort 8ms 
+POST /api/getImgById 7ms 
+GET /upFile/1530675307168.jpg 2ms 
+POST /api/upFile 57ms 
+GET /upFile/1530675632835.png 1ms 
+POST /api/updateImg 29ms 
+POST /api/listImg 7ms 
+GET /index.html 2ms 
+POST /api/listSort 8ms 
+POST /api/getImgById 7ms 
+POST /api/listImg 5ms 
+POST /api/deleteImg 28ms 
+POST /api/listImg 6ms 
+GET /index.html 1ms 
+POST /api/listSort 7ms 
+POST /api/listImg 5ms 
+GET /index.html 0ms 
+POST /api/listSort 6ms 
+POST /api/upFile 29ms 
+GET /upFile/1530675672314.png 1ms 
+POST /api/updateImg 36ms 
+POST /api/listImg 6ms 
+GET /index.html 2ms 
+POST /api/listSort 9ms 
+POST /api/getImgById 5ms 
+POST /api/upFile 1ms 
+【token验证错误！】【token验证错误！】POST /api/upFile 0ms 
+GET /index.html 1ms 
+【token验证错误！】POST /api/listSort 0ms 
+POST /api/login 177ms 
+GET /index.html 1ms 
+POST /api/listSort 9ms 
+POST /api/getImgById 14ms 
+GET /upFile/1530675672314.png 1ms 
+POST /api/upFile 83ms 
+GET /upFile/1530682630506.jpg 1ms 
+POST /api/upFile 123ms 
+GET /upFile/1530682842949.ico 9ms 
+POST /api/upFile 91ms 
+GET /upFile/1530682845946.jpg 2ms 
+POST /api/listUser 15ms 
+POST /api/listUser 7ms 
+POST /api/getUserById 30ms 
+POST /api/getUserById 10ms 
+POST /api/listUser 12ms 
+POST /api/login 141ms 
+POST /api/login 118ms 
+POST /api/listArticle 52ms 
+POST /api/listSort 55ms 
+POST /api/listUser 15ms 
+POST /api/listImg 12ms 
+【非法请求链接：/api/getIndexImg】GET /api/getIndexImg 3ms 
+POST /api/listImg 121ms 
+POST /api/listUser 13ms 
+POST /api/login 136ms 
+POST /api/listSort 17ms 
+POST /api/listArticle 23ms 
+POST /api/listSort 7ms 
+POST /api/upFile 80ms 
+POST /api/listSort 55ms 
+【非法请求链接：/api/repect/getIndexImg】POST /api/repect/getIndexImg 0ms 
+POST /api/repect/getIndexImg 0ms 
+【非法请求链接：/api/repect/getIndexImg】【非法请求链接：/api/repect/getIndexImg】POST /api/repect/getIndexImg 0ms 
+【非法请求链接：/api/repect/getIndexImg】POST /api/repect/getIndexImg 3ms 
+【非法请求链接：/api/repect/getIndexImg】POST /api/repect/getIndexImg 3ms 
+server errorTypeError: Cannot read property 'substring' of undefined
+{"request":{"method":"POST","url":"/api/repect/getIndexImg","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjg2NDkyLCJleHAiOjE1MzA3NzI4OTJ9.vBxdsym8Ojh_f7s3enqxIGnHFxM67VyyWPgQLA_R9go","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"0","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/getIndexImg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property 'substring' of undefined
+{"request":{"method":"POST","url":"/api/repect/getIndexImg","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjg2NDkyLCJleHAiOjE1MzA3NzI4OTJ9.vBxdsym8Ojh_f7s3enqxIGnHFxM67VyyWPgQLA_R9go","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"0","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/getIndexImg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property 'substring' of undefined
+{"request":{"method":"POST","url":"/api/repect/getIndexImg","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjg2NDkyLCJleHAiOjE1MzA3NzI4OTJ9.vBxdsym8Ojh_f7s3enqxIGnHFxM67VyyWPgQLA_R9go","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"0","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/getIndexImg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property 'substring' of undefined
+{"request":{"method":"POST","url":"/api/repect/getIndexImg","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjg2NDkyLCJleHAiOjE1MzA3NzI4OTJ9.vBxdsym8Ojh_f7s3enqxIGnHFxM67VyyWPgQLA_R9go","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","content-length":"0","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/getIndexImg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property 'substring' of undefined
+{"request":{"method":"POST","url":"/api/repect/getIndexImg","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjg2NDkyLCJleHAiOjE1MzA3NzI4OTJ9.vBxdsym8Ojh_f7s3enqxIGnHFxM67VyyWPgQLA_R9go","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"0","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/getIndexImg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/listSort 63ms 
+server errorTypeError: Cannot read property 'substring' of undefined
+{"request":{"method":"POST","url":"/api/repect/getIndexImg","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjg2NDkyLCJleHAiOjE1MzA3NzI4OTJ9.vBxdsym8Ojh_f7s3enqxIGnHFxM67VyyWPgQLA_R9go","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","content-length":"0","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/getIndexImg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property 'substring' of undefined
+{"request":{"method":"POST","url":"/api/repect/getIndexImg","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjg2NDkyLCJleHAiOjE1MzA3NzI4OTJ9.vBxdsym8Ojh_f7s3enqxIGnHFxM67VyyWPgQLA_R9go","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"0","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/getIndexImg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+【非法请求链接：/api/repect/getIndexImg】POST /api/repect/getIndexImg 11ms 
+【非法请求链接：/api/repect/getIndexImg】POST /api/repect/getIndexImg 3ms 
+【非法请求链接：/api/repect/getIndexImg】POST /api/repect/getIndexImg 2ms 
+【非法请求链接：/api/repect/getIndexImg】POST /api/repect/getIndexImg 3ms 
+POST /api/repect/getIndexImg 3ms 
+POST /api/repect/getIndexImg 6ms 
+【非法请求链接：/api/backg/getIndexImg】POST /api/backg/getIndexImg 1ms 
+【非法请求链接：/api/backg/getIndexImg】POST /api/backg/getIndexImg 0ms 
+POST /api/repect/getIndexImg 0ms 
+POST /api/backg/listImg 58ms 
+POST /api/repect/getIndexImg 0ms 
+POST /api/repect/getIndexImg 53ms 
+POST /api/repect/getIndexImg 17ms 
+POST /api/backg/listImg 31ms 
+POST /api/repect/getIndexImg 0ms 
+【token验证错误！】【token验证错误！】POST /api/repect/getIndexImg 1ms 
+POST /api/repect/getIndexImg 83ms 
+POST /api/repect/getIndexImg 17ms 
+POST /api/repect/getIndexImg 20ms 
+POST /api/repect/getIndexImg 13ms 
+POST /api/repect/getIndexImg 15ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"POST","url":"/api/login","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/login?url=%2Fbackg%2Fimg%2Flist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"34","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/login","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"POST","url":"/api/login","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/login?url=%2Fbackg%2Fimg%2Flist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"34","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/login","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"POST","url":"/api/login","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/login?url=%2Fbackg%2Fimg%2Flist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"34","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/login","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/login 139ms 
+POST /api/backg/listImg 18ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listSort 12ms 
+POST /api/backg/getImgById 11ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/upFile 0ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listSort 27ms 
+POST /api/backg/getImgById 23ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryBSBGuBLAu0dpRj3A","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listSort 15ms 
+POST /api/backg/getImgById 40ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryjJR702yaV9foK6bc","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listSort 32ms 
+POST /api/backg/getImgById 20ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listSort 18ms 
+POST /api/backg/getImgById 31ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listSort 33ms 
+POST /api/backg/getImgById 20ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundarylpgCDnueLIzAP12R","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listSort 50ms 
+POST /api/backg/getImgById 24ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundary2X8kuam9mTrfplK7","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listSort 71ms 
+POST /api/backg/getImgById 20ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryUcliLtAkf2zVedRY","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/getIndexImg 42ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listSort 19ms 
+POST /api/backg/getImgById 21ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listSort 18ms 
+POST /api/backg/getImgById 17ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundarypifFoUjLE8aphVzf","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 41ms 
+POST /api/backg/listSort 110ms 
+POST /api/backg/getImgById 17ms 
+GET /upFile/1530675672314.png 1ms 
+server errorTypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryszmNQ0csoUdLdJzV","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 6ms 
+GET /index.html 4ms 
+POST /api/backg/listSort 61ms 
+POST /api/backg/getImgById 29ms 
+GET /upFile/1530675672314.png 0ms 
+server errorTypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryoKyHwob9blLZDuRw","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 42ms 
+POST /api/backg/listSort 62ms 
+POST /api/backg/getImgById 24ms 
+GET /upFile/1530675672314.png 0ms 
+server errorTypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryQ56YpvrH1Bkl17K6","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 6ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 57ms 
+POST /api/backg/getImgById 22ms 
+GET /upFile/1530675672314.png 1ms 
+server errorTypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryOqfJqZ4OfpkvSfvI","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 7ms 
+POST /api/backg/listSort 47ms 
+POST /api/backg/getImgById 16ms 
+GET /upFile/1530675672314.png 0ms 
+server errorTypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryVUSnisCVUY3wQv8N","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 38ms 
+POST /api/backg/listSort 131ms 
+POST /api/backg/getImgById 17ms 
+GET /upFile/1530675672314.png 3ms 
+server errorError: Incorrect arguments to mysqld_stmt_execute
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryNTqnmBinJAU7ZZA3","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /dist/upFile/1530675672314.png 1ms 
+GET /favicon.ico 0ms 
+GET /upFile/1530675672314.png 1ms 
+GET /index.html 3ms 
+POST /api/backg/listSort 61ms 
+POST /api/backg/getImgById 22ms 
+GET /upFile/1530675672314.png 3ms 
+GET /index.html 7ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 85ms 
+POST /api/backg/getImgById 29ms 
+GET /upFile/1530675672314.png 1ms 
+server errorTypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundarypbx6yBq3w0muk8J1","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 8ms 
+POST /api/backg/listSort 46ms 
+POST /api/backg/getImgById 25ms 
+GET /upFile/1530675672314.png 1ms 
+GET /index.html 24ms 
+POST /api/backg/listSort 57ms 
+POST /api/backg/getImgById 28ms 
+GET /upFile/1530675672314.png 2ms 
+GET /index.html 7ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 50ms 
+POST /api/backg/getImgById 19ms 
+GET /upFile/1530675672314.png 0ms 
+server errorTypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryx68ANDDWAVovv737","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 8ms 
+POST /api/backg/listSort 102ms 
+POST /api/backg/getImgById 18ms 
+GET /upFile/1530675672314.png 2ms 
+server errorTypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundarydHIBQjEfLEKmYQTv","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 40ms 
+POST /api/backg/listSort 96ms 
+POST /api/backg/getImgById 18ms 
+GET /upFile/1530675672314.png 1ms 
+server errorTypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryNoJyQO4heBdyB0a6","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listSort 43ms 
+POST /api/backg/getImgById 22ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"POST","url":"/api/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/img/edit/113","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryIJyjib9lj6wgg0zr","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNjkxNTAwLCJleHAiOjE1MzA3Nzc5MDB9.SH_b0ZvwYoJ-O--jl4WFzcZ3fEZBVB7Lu-5Ga6pZGmg","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listSort 102ms 
+POST /api/backg/getImgById 16ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/getIndexImg 42ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listImg 12ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listSort 9ms 
+POST /api/backg/getImgById 13ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/upFile 112ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530694752707.jpg","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/backg/img/edit/113","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530694752707.jpg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/getIndexImg 50ms 
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530675672314.png","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530675672314.png","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530694752707.jpg","header":{"host":"localhost:3001","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"image/webp,image/apng,image/*,*/*;q=0.8","referer":"http://localhost:3000/","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530694752707.jpg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530694752707.jpg","header":{"host":"localhost:3001","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530694752707.jpg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '' of undefined
+{"request":{"method":"GET","url":"/upFile/1530694752707.jpg","header":{"host":"localhost:3001","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/upFile/1530694752707.jpg","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /upFile/1530694752707.jpg 15ms 
+POST /api/repect/getIndexImg 59ms 
+GET /upFile/1530675672314.png 1ms 
+GET /upFile/1530675672314.png 7ms 
+POST /api/backg/listImg 18ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 14ms 
+POST /api/backg/getImgById 9ms 
+GET /upFile/1530675672314.png 0ms 
+POST /api/backg/upFile 88ms 
+GET /upFile/1530695354548.png 1ms 
+POST /api/backg/updateImg 38ms 
+POST /api/backg/listImg 6ms 
+POST /api/repect/getIndexImg 10ms 
+GET /upFile/1530695354548.png 2ms 
+GET /index.html 2ms 
+POST /api/backg/listSort 11ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 29ms 
+GET /index.html 3ms 
+POST /api/backg/listSort 11ms 
+POST /api/backg/upFile 96ms 
+GET /upFile/1530695520720.jpg 1ms 
+POST /api/backg/updateImg 37ms 
+POST /api/backg/listImg 9ms 
+POST /api/repect/getIndexImg 8ms 
+GET /upFile/1530695354548.png 2ms 
+GET /upFile/1530695520720.jpg 1ms 
+POST /api/repect/getIndexImg 21ms 
+GET /upFile/1530695354548.png 2ms 
+GET /upFile/1530695520720.jpg 2ms 
+POST /api/backg/listImg 10ms 
+GET /index.html 2ms 
+POST /api/backg/listSort 8ms 
+POST /api/backg/listImg 19ms 
+GET /index.html 0ms 
+POST /api/backg/listSort 10ms 
+POST /api/backg/upFile 72ms 
+GET /upFile/1530695677977.png 1ms 
+POST /api/backg/listUser 17ms 
+POST /api/backg/listUser 10ms 
+POST /api/backg/getUserById 14ms 
+POST /api/backg/getUserById 9ms 
+POST /api/backg/listUser 9ms 
+POST /api/backg/listUser 22ms 
+POST /api/backg/getUserById 9ms 
+POST /api/backg/getUserById 19ms 
+POST /api/backg/listUser 8ms 
+POST /api/backg/listUser 19ms 
+POST /api/backg/listImg 9ms 
+GET /index.html 4ms 
+POST /api/backg/listSort 22ms 
+POST /api/repect/getIndexImg 8ms 
+GET /upFile/1530695520720.jpg 1ms 
+GET /upFile/1530695354548.png 1ms 
+POST /api/repect/getIndexImg 9ms 
+POST /api/repect/getIndexImg 61ms 
+POST /api/repect/getIndexImg 104ms 
+POST /api/backg/login 192ms 
+POST /api/backg/listImg 10ms 
+POST /api/backg/listSort 63ms 
+POST /api/backg/listArticle 68ms 
+POST /api/backg/listSort 9ms 
+POST /api/backg/getArticleById 10ms 
+POST /api/backg/updateArticle 147ms 
+POST /api/backg/listSort 10ms 
+POST /api/backg/listArticle 14ms 
+POST /api/backg/listSort 8ms 
+POST /api/backg/getArticleById 19ms 
+POST /api/backg/upFile 107ms 
+POST /api/backg/listSort 27ms 
+POST /api/backg/getArticleById 26ms 
+POST /api/backg/upFile 53ms 
+GET /index.html 20ms 
+POST /api/backg/listSort 11ms 
+POST /api/backg/getArticleById 10ms 
+POST /api/backg/upFile 42ms 
+GET /index.html 5ms 
+POST /api/backg/listSort 7ms 
+POST /api/backg/getArticleById 11ms 
+GET /index.html 2ms 
+POST /api/backg/upFile 52ms 
+GET /upFile/1530752862193.png 3ms 
+GET /index.html 3ms 
+POST /api/backg/listSort 33ms 
+POST /api/backg/getArticleById 15ms 
+GET /index.html 7ms 
+POST /api/backg/login 107ms 
+GET /index.html 0ms 
+POST /api/backg/listSort 9ms 
+POST /api/backg/getArticleById 13ms 
+GET /index.html 3ms 
+POST /api/backg/upFile 70ms 
+GET /upFile/1530753131576.png 1ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 44ms 
+POST /api/backg/getArticleById 11ms 
+GET /index.html 5ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 20ms 
+POST /api/backg/getArticleById 9ms 
+GET /index.html 2ms 
+POST /api/backg/listSort 49ms 
+POST /api/backg/getArticleById 17ms 
+GET /index.html 10ms 
+POST /api/backg/listSort 11ms 
+POST /api/backg/getArticleById 16ms 
+GET /index.html 1ms 
+POST /api/backg/upFile 59ms 
+GET /upFile/1530753656935.png 2ms 
+POST /api/backg/updateArticle 75ms 
+POST /api/backg/listSort 12ms 
+POST /api/backg/listArticle 15ms 
+GET /index.html 7ms 
+POST /api/backg/listSort 34ms 
+POST /api/backg/getArticleById 17ms 
+GET /index.html 0ms 
+POST /api/backg/listSort 12ms 
+POST /api/backg/getArticleById 8ms 
+GET /upFile/1530753656935.png 0ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 9ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 6ms 
+POST /api/backg/upFile 51ms 
+GET /upFile/1530753766492.jpg 3ms 
+POST /api/backg/upFile 48ms 
+GET /upFile/1530753769166.png 1ms 
+server errorError: request entity too large
+{"request":{"method":"POST","url":"/api/backg/updateArticle","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/article/add","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNzUzMTAzLCJleHAiOjE1MzA4Mzk1MDN9.ZeDFoY1G06E86fVnqVGr7ZzZFe-dHVP3AXZ4lj5TKZ8","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"187586","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/backg/updateArticle","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/updateArticle 71ms 
+POST /api/backg/listSort 7ms 
+POST /api/backg/listArticle 10ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 11ms 
+POST /api/backg/getArticleById 11ms 
+GET /index.html 2ms 
+POST /api/backg/listSort 22ms 
+POST /api/backg/getArticleById 20ms 
+GET /upFile/1530753769166.png 3ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 17ms 
+GET /index.html 0ms 
+POST /api/backg/listSort 9ms 
+POST /api/backg/getArticleById 13ms 
+GET /upFile/1530753769166.png 1ms 
+GET /index.html 0ms 
+POST /api/backg/listSort 13ms 
+POST /api/backg/getArticleById 9ms 
+GET /upFile/1530753769166.png 2ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 18ms 
+POST /api/backg/getArticleById 11ms 
+GET /upFile/1530753769166.png 0ms 
+POST /api/backg/upFile 74ms 
+GET /upFile/1530754153746.jpg 3ms 
+POST /api/backg/updateArticle 58ms 
+POST /api/backg/listSort 10ms 
+POST /api/backg/listArticle 10ms 
+GET /index.html 2ms 
+POST /api/backg/listSort 6ms 
+POST /api/backg/getArticleById 9ms 
+POST /api/backg/updateArticle 38ms 
+POST /api/backg/listSort 9ms 
+POST /api/backg/listArticle 13ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 9ms 
+POST /api/backg/getArticleById 9ms 
+POST /api/repect/getIndexImg 10ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 7ms 
+POST /api/backg/getArticleById 7ms 
+GET /upFile/1530754153746.jpg 1ms 
+GET /index.html 2ms 
+POST /api/backg/listSort 20ms 
+POST /api/backg/getArticleById 10ms 
+GET /upFile/1530754153746.jpg 1ms 
+【token验证错误！】POST /api/backg/upFile 0ms 
+【token验证错误！】POST /api/backg/upFile 0ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 19ms 
+POST /api/backg/getArticleById 16ms 
+GET /upFile/1530754153746.jpg 2ms 
+server errorError: request entity too large
+{"request":{"method":"POST","url":"/api/backg/updateArticle","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/article/edit/2","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNzUzMTAzLCJleHAiOjE1MzA4Mzk1MDN9.ZeDFoY1G06E86fVnqVGr7ZzZFe-dHVP3AXZ4lj5TKZ8","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","content-length":"214507","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/backg/updateArticle","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorError: request entity too large
+{"request":{"method":"POST","url":"/api/backg/updateArticle","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/article/edit/2","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNzUzMTAzLCJleHAiOjE1MzA4Mzk1MDN9.ZeDFoY1G06E86fVnqVGr7ZzZFe-dHVP3AXZ4lj5TKZ8","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","content-length":"214507","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/backg/updateArticle","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 1ms 
+POST /api/backg/listSort 6ms 
+POST /api/backg/getArticleById 9ms 
+GET /upFile/1530754153746.jpg 1ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 7ms 
+POST /api/backg/getArticleById 7ms 
+GET /upFile/1530754153746.jpg 1ms 
+【token验证错误！】POST /api/backg/upFile 0ms 
+【token验证错误！】POST /api/backg/upFile 0ms 
+GET /index.html 56ms 
+POST /api/backg/listSort 208ms 
+POST /api/backg/getArticleById 13ms 
+GET /upFile/1530754153746.jpg 2ms 
+【token验证错误！】POST /api/backg/upFile 15ms 
+GET /index.html 28ms 
+POST /api/backg/listSort 74ms 
+POST /api/backg/getArticleById 19ms 
+GET /upFile/1530754153746.jpg 4ms 
+GET /index.html 6ms 
+GET /index.html 4ms 
+POST /api/backg/listSort 43ms 
+POST /api/backg/getArticleById 12ms 
+GET /upFile/1530754153746.jpg 2ms 
+【token验证错误！】POST /api/backg/upFile 0ms 
+GET /index.html 8ms 
+GET /index.html 4ms 
+POST /api/backg/listSort 101ms 
+POST /api/backg/getArticleById 22ms 
+GET /upFile/1530754153746.jpg 3ms 
+【token验证错误！】POST /api/backg/upFile 1ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 9ms 
+POST /api/backg/getArticleById 10ms 
+GET /upFile/1530754153746.jpg 2ms 
+【token验证错误！】POST /api/backg/upFile 0ms 
+POST /api/repect/getIndexImg 35ms 
+POST /api/backg/listImg 18ms 
+GET /index.html 8ms 
+POST /api/backg/listSort 9ms 
+POST /api/backg/getImgById 9ms 
+GET /upFile/1530695354548.png 1ms 
+POST /api/backg/listImg 18ms 
+POST /api/backg/listSort 9ms 
+POST /api/backg/listArticle 13ms 
+GET /index.html 2ms 
+POST /api/backg/listSort 8ms 
+POST /api/backg/getArticleById 9ms 
+GET /upFile/1530754153746.jpg 3ms 
+POST /api/backg/upFile 0ms 
+【token验证错误！】GET /index.html 33ms 
+POST /api/backg/listSort 62ms 
+POST /api/backg/getArticleById 18ms 
+GET /upFile/1530754153746.jpg 2ms 
+【token验证错误！】POST /api/backg/upFile 1ms 
+【token验证错误！】POST /api/backg/upFile 4ms 
+【token验证错误！】POST /api/backg/upFile 4ms 
+GET /index.html 30ms 
+POST /api/backg/listSort 80ms 
+POST /api/backg/getArticleById 12ms 
+GET /upFile/1530754153746.jpg 2ms 
+【token验证错误！】POST /api/backg/upFile 2ms 
+server errorTypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+{"request":{"method":"POST","url":"/api/backg/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/article/edit/2","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryeF0hujSLAwESkycY","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","cache-control":"no-cache","pragma":"no-cache","content-length":"19289","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/backg/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+【token验证错误！】POST /api/backg/upFile 4ms 
+【token验证错误！】POST /api/backg/upFile 6ms 
+GET /index.html 7ms 
+POST /api/backg/listSort 92ms 
+POST /api/backg/getArticleById 25ms 
+GET /upFile/1530754153746.jpg 3ms 
+POST /api/backg/upFile 81ms 
+POST /api/backg/upFile 39ms 
+GET /index.html 11ms 
+POST /api/backg/listSort 49ms 
+POST /api/backg/getArticleById 24ms 
+GET /upFile/1530754153746.jpg 1ms 
+server errorError: Unexpected field
+{"request":{"method":"POST","url":"/api/backg/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/article/edit/2","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryn5VDxrSXfNfLtOsk","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNzUzMTAzLCJleHAiOjE1MzA4Mzk1MDN9.ZeDFoY1G06E86fVnqVGr7ZzZFe-dHVP3AXZ4lj5TKZ8","cache-control":"no-cache","pragma":"no-cache","content-length":"19290","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/backg/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 1ms 
+POST /api/backg/listSort 7ms 
+POST /api/backg/getArticleById 9ms 
+GET /upFile/1530754153746.jpg 4ms 
+POST /api/backg/upFile 84ms 
+【token验证错误！】POST /api/backg/upFile 4ms 
+GET /index.html 12ms 
+POST /api/backg/listSort 44ms 
+POST /api/backg/getArticleById 13ms 
+GET /upFile/1530754153746.jpg 1ms 
+POST /api/backg/upFile 98ms 
+POST /api/backg/upFile 117ms 
+POST /api/backg/upFile 47ms 
+POST /api/backg/upFile 69ms 
+GET /upFile/1530760260266.png 6ms 
+GET /index.html 7ms 
+POST /api/backg/listSort 36ms 
+POST /api/backg/getArticleById 18ms 
+GET /upFile/1530754153746.jpg 2ms 
+server errorError: Unexpected field
+{"request":{"method":"POST","url":"/api/backg/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/article/edit/2","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryeDvPXWPkBjN43S4K","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNzUzMTAzLCJleHAiOjE1MzA4Mzk1MDN9.ZeDFoY1G06E86fVnqVGr7ZzZFe-dHVP3AXZ4lj5TKZ8","cache-control":"no-cache","pragma":"no-cache","content-length":"19290","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/backg/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 1ms 
+POST /api/backg/listSort 26ms 
+POST /api/backg/getArticleById 15ms 
+GET /upFile/1530754153746.jpg 2ms 
+POST /api/backg/upFile 77ms 
+GET /index.html 8ms 
+POST /api/backg/listSort 48ms 
+POST /api/backg/getArticleById 19ms 
+GET /upFile/1530754153746.jpg 1ms 
+POST /api/backg/upFile 58ms 
+GET /upFile/1530761870795.png 1ms 
+POST /api/backg/upFile 41ms 
+POST /api/backg/upFile 87ms 
+GET /index.html 33ms 
+POST /api/backg/listSort 73ms 
+POST /api/backg/getArticleById 12ms 
+GET /upFile/1530754153746.jpg 4ms 
+POST /api/backg/upFile 90ms 
+GET /index.html 7ms 
+POST /api/backg/listSort 50ms 
+POST /api/backg/getArticleById 16ms 
+GET /upFile/1530754153746.jpg 2ms 
+GET /index.html 54ms 
+POST /api/backg/listSort 99ms 
+POST /api/backg/getArticleById 26ms 
+GET /upFile/1530754153746.jpg 3ms 
+POST /api/backg/upFile 89ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 9ms 
+POST /api/backg/getArticleById 9ms 
+GET /upFile/1530754153746.jpg 1ms 
+POST /api/backg/upFile 39ms 
+POST /api/backg/upFile 61ms 
+GET /index.html 17ms 
+POST /api/backg/listSort 58ms 
+POST /api/backg/getArticleById 23ms 
+GET /upFile/1530754153746.jpg 2ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 35ms 
+POST /api/backg/getArticleById 16ms 
+GET /upFile/1530754153746.jpg 2ms 
+POST /api/backg/upFile 62ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 12ms 
+POST /api/backg/getArticleById 20ms 
+GET /upFile/1530754153746.jpg 1ms 
+GET /index.html 2ms 
+POST /api/backg/listSort 20ms 
+POST /api/backg/getArticleById 17ms 
+GET /upFile/1530754153746.jpg 1ms 
+POST /api/backg/upFile 40ms 
+GET /index.html 6ms 
+POST /api/backg/listSort 13ms 
+POST /api/backg/getArticleById 16ms 
+GET /upFile/1530754153746.jpg 1ms 
+POST /api/backg/upFile 43ms 
+GET /index.html 0ms 
+POST /api/backg/listSort 29ms 
+POST /api/backg/getArticleById 29ms 
+GET /upFile/1530754153746.jpg 2ms 
+POST /api/backg/upFile 41ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 19ms 
+POST /api/backg/getArticleById 18ms 
+GET /upFile/1530754153746.jpg 2ms 
+GET /index.html 2ms 
+POST /api/backg/listSort 11ms 
+POST /api/backg/getArticleById 18ms 
+GET /upFile/1530754153746.jpg 1ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 12ms 
+POST /api/backg/getArticleById 13ms 
+GET /upFile/1530754153746.jpg 3ms 
+POST /api/backg/upFile 61ms 
+GET /index.html 13ms 
+POST /api/backg/listSort 20ms 
+POST /api/backg/getArticleById 29ms 
+GET /upFile/1530754153746.jpg 1ms 
+server errorTypeError: Cannot read property 'originalname' of undefined
+{"request":{"method":"POST","url":"/api/backg/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/article/edit/2","accept":"*/*","content-type":"x-www-form-urlencoded","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNzUzMTAzLCJleHAiOjE1MzA4Mzk1MDN9.ZeDFoY1G06E86fVnqVGr7ZzZFe-dHVP3AXZ4lj5TKZ8","cache-control":"no-cache","pragma":"no-cache","content-length":"19289","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/backg/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/getIndexImg 59ms 
+GET /index.html 11ms 
+POST /api/backg/listSort 20ms 
+POST /api/backg/getArticleById 36ms 
+GET /upFile/1530754153746.jpg 2ms 
+server errorTypeError: Cannot read property 'originalname' of undefined
+{"request":{"method":"POST","url":"/api/backg/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/article/edit/2","accept":"*/*","content-type":"x-www-form-urlencoded","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNzUzMTAzLCJleHAiOjE1MzA4Mzk1MDN9.ZeDFoY1G06E86fVnqVGr7ZzZFe-dHVP3AXZ4lj5TKZ8","cache-control":"no-cache","pragma":"no-cache","content-length":"19289","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/backg/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property 'originalname' of undefined
+{"request":{"method":"POST","url":"/api/backg/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/article/edit/2","accept":"*/*","content-type":"x-www-form-urlencoded","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNzUzMTAzLCJleHAiOjE1MzA4Mzk1MDN9.ZeDFoY1G06E86fVnqVGr7ZzZFe-dHVP3AXZ4lj5TKZ8","cache-control":"no-cache","pragma":"no-cache","content-length":"19289","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/backg/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property 'originalname' of undefined
+{"request":{"method":"POST","url":"/api/backg/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/article/edit/2","accept":"*/*","content-type":"x-www-form-urlencoded","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNzUzMTAzLCJleHAiOjE1MzA4Mzk1MDN9.ZeDFoY1G06E86fVnqVGr7ZzZFe-dHVP3AXZ4lj5TKZ8","cache-control":"no-cache","pragma":"no-cache","content-length":"19289","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/backg/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 9ms 
+POST /api/backg/listSort 90ms 
+POST /api/backg/getArticleById 55ms 
+GET /upFile/1530754153746.jpg 4ms 
+server errorError: Multipart: Boundary not found
+{"request":{"method":"POST","url":"/api/backg/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/article/edit/2","accept":"*/*","content-type":"multipart/form-data","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNzUzMTAzLCJleHAiOjE1MzA4Mzk1MDN9.ZeDFoY1G06E86fVnqVGr7ZzZFe-dHVP3AXZ4lj5TKZ8","cache-control":"no-cache","pragma":"no-cache","content-length":"19289","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/backg/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 8ms 
+POST /api/backg/listSort 105ms 
+POST /api/backg/getArticleById 47ms 
+GET /upFile/1530754153746.jpg 2ms 
+server errorError: invalid JSON, only supports object and array
+{"request":{"method":"POST","url":"/api/backg/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/backg/article/edit/2","accept":"*/*","content-type":"application/json","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMwNzUzMTAzLCJleHAiOjE1MzA4Mzk1MDN9.ZeDFoY1G06E86fVnqVGr7ZzZFe-dHVP3AXZ4lj5TKZ8","cache-control":"no-cache","pragma":"no-cache","content-length":"19289","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/backg/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+GET /index.html 2ms 
+POST /api/backg/listSort 31ms 
+POST /api/backg/getArticleById 24ms 
+GET /upFile/1530754153746.jpg 3ms 
+POST /api/backg/upFile 64ms 
+GET /index.html 7ms 
+POST /api/backg/listSort 47ms 
+POST /api/backg/getArticleById 23ms 
+GET /upFile/1530754153746.jpg 3ms 
+POST /api/backg/upFile 103ms 
+GET /index.html 7ms 
+POST /api/backg/listSort 39ms 
+POST /api/backg/getArticleById 15ms 
+GET /upFile/1530754153746.jpg 2ms 
+POST /api/backg/upFile 57ms 
+GET /index.html 9ms 
+POST /api/backg/listSort 76ms 
+POST /api/backg/getArticleById 40ms 
+GET /upFile/1530754153746.jpg 2ms 
+POST /api/backg/upFile 70ms 
+GET /index.html 3ms 
+POST /api/backg/listSort 32ms 
+POST /api/backg/getArticleById 23ms 
+GET /upFile/1530754153746.jpg 1ms 
+POST /api/backg/upFile 71ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 40ms 
+POST /api/backg/getArticleById 25ms 
+GET /upFile/1530754153746.jpg 1ms 
+POST /api/backg/upFile 73ms 
+GET /index.html 0ms 
+POST /api/backg/listSort 23ms 
+POST /api/backg/getArticleById 86ms 
+GET /upFile/1530754153746.jpg 4ms 
+POST /api/backg/upFile 52ms 
+POST /api/backg/listSort 40ms 
+GET /index.html 6ms 
+POST /api/backg/getArticleById 26ms 
+GET /upFile/1530754153746.jpg 3ms 
+POST /api/backg/upFile 81ms 
+POST /api/repect/getIndexImg 47ms 
+GET /index.html 8ms 
+POST /api/backg/listSort 22ms 
+POST /api/backg/getArticleById 44ms 
+GET /upFile/1530754153746.jpg 2ms 
+POST /api/backg/upFile 88ms 
+GET /index.html 39ms 
+POST /api/backg/listSort 127ms 
+POST /api/backg/getArticleById 17ms 
+GET /upFile/1530754153746.jpg 2ms 
+POST /api/backg/upFile 91ms 
+GET /index.html 2ms 
+POST /api/backg/listSort 18ms 
+POST /api/backg/getArticleById 19ms 
+GET /upFile/1530754153746.jpg 1ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 12ms 
+POST /api/backg/getArticleById 13ms 
+GET /upFile/1530754153746.jpg 1ms 
+POST /api/backg/upFile 69ms 
+GET /index.html 7ms 
+POST /api/backg/listSort 41ms 
+POST /api/backg/getArticleById 16ms 
+GET /upFile/1530754153746.jpg 2ms 
+POST /api/backg/upFile 63ms 
+POST /api/backg/upFile 36ms 
+POST /api/backg/upFile 114ms 
+GET /index.html 8ms 
+POST /api/backg/listSort 70ms 
+POST /api/backg/getArticleById 19ms 
+GET /upFile/1530754153746.jpg 4ms 
+POST /api/backg/listSort 47ms 
+POST /api/backg/getArticleById 20ms 
+GET /upFile/1530754153746.jpg 5ms 
+GET /index.html 57ms 
+POST /api/backg/listSort 113ms 
+POST /api/backg/getArticleById 20ms 
+GET /upFile/1530754153746.jpg 7ms 
+POST /api/backg/listSort 38ms 
+POST /api/backg/getArticleById 15ms 
+GET /upFile/1530754153746.jpg 5ms 
+POST /api/backg/upFile 96ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 24ms 
+POST /api/backg/getArticleById 26ms 
+GET /upFile/1530754153746.jpg 1ms 
+POST /api/backg/upFile 167ms 
+GET /upFile/1530772520248.jpg 2ms 
+POST /api/backg/updateArticle 41ms 
+POST /api/backg/listSort 14ms 
+POST /api/backg/listArticle 22ms 
+GET /index.html 2ms 
+POST /api/backg/listSort 16ms 
+POST /api/backg/getArticleById 13ms 
+POST /api/backg/updateArticle 56ms 
+POST /api/backg/listArticle 13ms 
+POST /api/backg/listSort 15ms 
+GET /index.html 1ms 
+POST /api/backg/listSort 8ms 
+POST /api/backg/getArticleById 15ms 
+GET /upFile/1530753656935.png 2ms 
+POST /api/backg/listSort 11ms 
+POST /api/backg/listArticle 17ms 
+GET /index.html 5ms 
+POST /api/backg/listSort 18ms 
+POST /api/backg/getArticleById 12ms 
+POST /api/repect/getIndexImg 76ms 
+POST /api/repect/getIndexImg 82ms 
+POST /api/repect/getListArticle 114ms 
+POST /api/repect/getListArticle 16ms 
+POST /api/repect/getIndexImg 22ms 
+POST /api/repect/getIndexImg 48ms 
+POST /api/repect/getListArticle 65ms 
+POST /api/repect/getIndexImg 16ms 
+POST /api/repect/getListArticle 19ms 
+GET /upFile/1530772520248.jpg 9ms 
+GET /upFile/1530753656935.png 3ms 
+POST /api/repect/getIndexImg 12ms 
+POST /api/repect/getListArticle 15ms 
+GET /upFile/1530772520248.jpg 4ms 
+GET /upFile/1530753656935.png 3ms 
+POST /api/repect/getListArticle 14ms 
+POST /api/repect/getIndexImg 18ms 
+GET /upFile/1530772520248.jpg 2ms 
+GET /upFile/1530753656935.png 0ms 
+POST /api/repect/getListArticle 9ms 
+POST /api/repect/getIndexImg 12ms 
+GET /upFile/1530772520248.jpg 2ms 
+GET /upFile/1530753656935.png 2ms 
+POST /api/repect/getListArticle 15ms 
+POST /api/repect/getIndexImg 16ms 
+GET /upFile/1530772520248.jpg 2ms 
+GET /upFile/1530753656935.png 1ms 
+POST /api/repect/getIndexImg 14ms 
+POST /api/repect/getListArticle 18ms 
+GET /upFile/1530772520248.jpg 1ms 
+GET /upFile/1530753656935.png 1ms 
