@@ -18,7 +18,7 @@
 
 **测试帐号**
 
-user：`vip会员`   password：`vip123`
+user：`admin`   password：`admin123`
 
 ### 安装
 
@@ -185,14 +185,11 @@ npm run server
 
 ### 实践项目
 
-- [前端监控系统monitor](https://github.com/scscms/scs-monitor)
 
 ### 后记
 
 因时间关键，原计划还要做上前台界面和文章评论，姑且放到下一个版本来制作了。时间匆忙难免错漏，肯请指正。
 并欢迎交流学习，并献上您的宝贵意思。
-QQ群：25702761
-guangda1234@126.com 或
-[在线联系](https://gitter.im/ElemeFE/element)
+343521103@163.com 
 
 ---
