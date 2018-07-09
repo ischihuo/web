@@ -38,7 +38,10 @@
   }
 
   .midcontent {
-    padding-top: 10px;
+    height: 100%;
   }
-
+  .midcontent .contont{
+    height: 100%;
+    padding-top: 70px;
+  }
 </style>

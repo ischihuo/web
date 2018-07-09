@@ -24,6 +24,7 @@
         </el-submenu>
         <el-menu-item index="3" disabled>我的组织</el-menu-item>
         <el-menu-item index="4"><a href="" target="_blank">联系我们</a></el-menu-item>
+        <el-menu-item index="5"><a href="" target="_blank">个人中心</a></el-menu-item>
         </el-menu>
     </div>
 </template>
@@ -89,6 +90,7 @@
         width: 100%;
         height: 60px;
         background: #545C64;
+        position: absolute;
         ul.el-menu-demo.el-menu--horizontal.el-menu{
             width: 600px;
             float: right;

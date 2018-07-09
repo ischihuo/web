@@ -94,3 +94,12 @@ html, body, #app {
     background: #50504f;
     height: 100%;
 }
+
+
+/* 公共样式 */
+.contbody{
+    width: 1160px;
+    margin: 0 auto;
+    background-color: #fff; 
+    padding: 20px;
+}

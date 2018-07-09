@@ -13,6 +13,8 @@ import ImgAdd from 'page/backgPage/Img/add.vue'
 // 前台
 import Index from 'page/receptPage/index/index.vue'
 import IndexPage from 'page/receptPage/index/indexPage.vue'
+import proDetails from 'page/receptPage/pro/proDetails.vue'
+
 
 //todo 记录
 /*
@@ -175,6 +177,9 @@ export default {
             children: [{
                 path: '/',
                 component: IndexPage
+            },{
+                path: '/article',
+                component: proDetails,
             }]
         }
     ]

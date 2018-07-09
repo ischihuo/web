@@ -1,13 +1,14 @@
 <template>
-  <div class="indexpage" style="height: 100%;">
-    <div class="block contbody">
+  <div class="indexpage contbody" style="height: 100%;">
+    <div class="block">
       <el-carousel height="450px" class="indeximg">
-        <el-carousel-item v-for="item in imglist" :key="item">
-          <!-- <img :src="imgPath+item.img_path" alt="" style="width:1200;height:450"> -->
+        <el-carousel-item v-for="item in imglist" :key="item.id">
+          <img :src="imgPath+item.img_path" alt="" style="width:1200;height:450">
         </el-carousel-item>
       </el-carousel>
-      <div class="prolist" v-for="item in prolist" :key="item">
-        <div class="proli">
+      <div class="hotpro">热门</div>
+      <div class="prolist" v-for="item in prolist" :key="item.id">
+        <div class="proli" @click="proclick(item.id)">
           <img :src="imgPath+item.art_img" :alt="item.title">
           <div>{{item.title}}</div>
         </div>
@@ -36,6 +37,9 @@
           });
           
       },
+      proclick(eve){
+        this.$router.push({path: "/article",query: {'id':eve}})
+      }
     },
     mounted() {
         this.ajaxData();
@@ -79,13 +83,25 @@
       width: 1200px;
       height: 450px;
     }
+    .hotpro{
+      height: 60px;
+      line-height: 60px;
+      font-size: 20px;
+    }
+    .prolist{
+      border: none;
+      padding-left: 16px;
+    }
     .proli{
       width: 280px;
-      height: 80px;
+      height: 140px;
+      float: left;
+      margin-right: 16px;
+      cursor:pointer;
     }
     .proli img{
       width: 280px;
-      height: 60px;
+      height: 120px;
     }
   }
   

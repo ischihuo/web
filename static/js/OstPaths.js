@@ -25,9 +25,6 @@
   var basePath = '';
   var rootDomain = localObj.protocol + "//" + localObj.host;
 
-  window.wangzhiheng = process.env.NODE_ENV === 'production' ? "http://192.168.20.182:2147" :"http://192.168.20.182:2147";
-  window.liangzhiyong = process.env.NODE_ENV === 'production' ? "http://192.168.20.158:2147" :"http://192.168.20.158:2147";
-
   var ospath = "http://localhost:3000/api";
   var ospathrep = "http://localhost:3000/api/repect";
   var ospathbak = "http://localhost:3000/api/backg";
@@ -75,6 +72,8 @@
     // 前台接口
     'GETINDEXIMG':ospathrep+'/getIndexImg', //上传文件列表
     'GETLISTARTICLE':ospathrep+'/getListArticle', //获取首页推荐信息
+    'GETARTICLEBYID':ospathrep+'/getArticleById', //获取首页推荐信息
+    
     
   };
 

@@ -45,6 +45,7 @@ const urls = {
 const qurls = {
     'getIndexImg': {userType:0},	//获取首页的轮播图
     'getListArticle':{},// 获取首页推荐信息
+    'getArticleById':{},// 获取文章详情
 };
 
 Object.getOwnPropertyNames(qurls).forEach(key=>{
