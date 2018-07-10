@@ -9,22 +9,22 @@
         text-color="#fff"
         active-text-color="#ffd04b">
         <el-menu-item index="0"><img src="" alt=""></el-menu-item>
-        <el-menu-item index="1">首页</el-menu-item>
-        <el-submenu index="2">
-            <template slot="title">我的工作台</template>
-            <el-menu-item index="2-1">选项1</el-menu-item>
-            <el-menu-item index="2-2">选项2</el-menu-item>
-            <el-menu-item index="2-3">选项3</el-menu-item>
-            <el-submenu index="2-4">
-            <template slot="title">选项4</template>
-            <el-menu-item index="2-4-1">选项1</el-menu-item>
-            <el-menu-item index="2-4-2">选项2</el-menu-item>
-            <el-menu-item index="2-4-3">选项3</el-menu-item>
-            </el-submenu>
-        </el-submenu>
+        <el-menu-item index="1"><router-link to="/" >首页</router-link></el-menu-item>
+        <el-menu-item index="2"><a href="" target="_blank">发现更多</a></el-menu-item>
         <el-menu-item index="3" disabled>我的组织</el-menu-item>
         <el-menu-item index="4"><a href="" target="_blank">联系我们</a></el-menu-item>
-        <el-menu-item index="5"><a href="" target="_blank">个人中心</a></el-menu-item>
+        <el-submenu index="5">
+            <template slot="title">个人中心</template>
+            <el-menu-item index="5-1"><router-link to="/proAdd" >发布产品</router-link></el-menu-item>
+            <el-menu-item index="5-2">选项2</el-menu-item>
+            <el-menu-item index="5-3">选项3</el-menu-item>
+            <el-submenu index="5-4">
+            <template slot="title">选项4</template>
+            <el-menu-item index="5-4-1">选项1</el-menu-item>
+            <el-menu-item index="5-4-2">选项2</el-menu-item>
+            <el-menu-item index="5-4-3">选项3</el-menu-item>
+            </el-submenu>
+        </el-submenu>
         </el-menu>
     </div>
 </template>
@@ -97,6 +97,9 @@
         }
         .el-menu--horizontal{
             border-bottom: none;
+        }
+        .el-menu--horizontal a,.el-menu--horizontal a:link,.el-menu--horizontal a:hover,.el-menu--horizontal a:visited{
+            color: #fff;
         }
     }
 </style>

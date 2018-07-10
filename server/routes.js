@@ -93,6 +93,7 @@ const storage = multer.diskStorage({
 //上传文件
 routes.post('/backg/upFile', multer({storage}).single('file'), async ctx => {
     const {originalname,mimetype,filename,path,size} = ctx.req.file;
+    console.log(ctx.req.file)
     let msg,is_del = 0;
     // let fullPath = common.web_domain + config.upPath.replace('dist/','/') + filename;
     let fullPath = filename;

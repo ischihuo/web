@@ -90,17 +90,17 @@
     }
     .prolist{
       border: none;
-      padding-left: 16px;
+      padding-left: 0;
     }
     .proli{
-      width: 280px;
+      width: 270px;
       height: 140px;
       float: left;
-      margin-right: 16px;
+      margin-right: 10px;
       cursor:pointer;
     }
     .proli img{
-      width: 280px;
+      width: 270px;
       height: 120px;
     }
   }

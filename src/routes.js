@@ -14,7 +14,8 @@ import ImgAdd from 'page/backgPage/Img/add.vue'
 import Index from 'page/receptPage/index/index.vue'
 import IndexPage from 'page/receptPage/index/indexPage.vue'
 import proDetails from 'page/receptPage/pro/proDetails.vue'
-
+import proAdd from 'page/receptPage/pro/proAdd.vue'
+import proDetailsAdd from 'page/receptPage/pro/proDetailsAdd.vue'
 
 //todo 记录
 /*
@@ -180,6 +181,12 @@ export default {
             },{
                 path: '/article',
                 component: proDetails,
+            },{
+                path:'/proAdd',
+                component: proAdd,
+            },{
+                path:'/proDetailsAdd',
+                component: proDetailsAdd,
             }]
         }
     ]

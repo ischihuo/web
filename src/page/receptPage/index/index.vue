@@ -34,7 +34,9 @@
   }
 
   #app {
-    background: #f2f2f2
+    background: #f2f2f2;
+    min-height: 100%;
+    height: auto;
   }
 
   .midcontent {

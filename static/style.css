@@ -95,7 +95,10 @@ html, body, #app {
     height: 100%;
 }
 
-
+a,a:link,a:hover,a:visited{
+    color: #000;
+    text-decoration:none;
+}
 /* 公共样式 */
 .contbody{
     width: 1160px;

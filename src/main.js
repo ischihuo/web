@@ -4,14 +4,21 @@ import App from './App';
 import ElementUI from 'element-ui';
 import '../static/style.css';
 import 'element-ui/lib/theme-chalk/index.css';
+import '../static/js/jquery-2.0.0.min.js'
 import '../static/js/OstPaths.js'
+import '../static/js/SubAreas.js'
+import '../static/js/DataStore.min.js'
 import VueRouter from 'vue-router';
 import Vuex from 'vuex';
 
 Vue.use(Vuex);
 import store from './store/';//本地存储
 import {storage} from 'utils';
+import BaiduMap from 'vue-baidu-map'
 
+Vue.use(BaiduMap, {
+  ak: 'qvEBjYRcHmpZCDXR849MnC73QGstenOE'
+})
 Vue.use(ElementUI);
 Vue.use(VueRouter);
 
