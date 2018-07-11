@@ -13,7 +13,7 @@ import ImgAdd from 'page/backgPage/Img/add.vue'
 // 前台
 import Index from 'page/receptPage/index/index.vue'
 import IndexPage from 'page/receptPage/index/indexPage.vue'
-import proDetails from 'page/receptPage/pro/proDetails.vue'
+import proDetails0 from 'page/receptPage/pro/proDetails0.vue'
 import proAdd from 'page/receptPage/pro/proAdd.vue'
 import proDetailsAdd from 'page/receptPage/pro/proDetailsAdd.vue'
 
@@ -179,8 +179,8 @@ export default {
                 path: '/',
                 component: IndexPage
             },{
-                path: '/article',
-                component: proDetails,
+                path: '/proDetails',
+                component: proDetails0,
             },{
                 path:'/proAdd',
                 component: proAdd,

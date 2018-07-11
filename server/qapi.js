@@ -117,10 +117,8 @@ async function getArticleById(ctx) {
         data: !msg ? obj : {}
     }
 }
-
-
 export default {
     getIndexImg,
     getListArticle,
-    getArticleById
+    getArticleById,
 }

@@ -3,6 +3,7 @@ import jwt from 'jsonwebtoken'
 import config from './config.js'
 import api from './api'
 import qapi from './qapi'
+import lapi from './lapi'
 import common from './common'
 import koa_router from 'koa-router'
 import multer from 'koa-multer';
@@ -47,7 +48,11 @@ const qurls = {
     'getListArticle':{},// 获取首页推荐信息
     'getArticleById':{},// 获取文章详情
 };
-
+//前台接口需私有
+const lurls = {
+    'addpro':{},//新增商品
+};
+//前台接口公开
 Object.getOwnPropertyNames(qurls).forEach(key=>{
     if(common.page_grade.hasOwnProperty(key)){
         qurls[key].userType = common.page_grade[key];//覆盖访问权限
@@ -58,7 +63,18 @@ Object.getOwnPropertyNames(qurls).forEach(key=>{
         routes[obj.method ? obj.method : 'post'](url, qapi[key]);
     }
 });
-
+//前台接口私有
+Object.getOwnPropertyNames(lurls).forEach(key=>{
+    if(common.page_grade.hasOwnProperty(key)){
+        lurls[key].userType = common.page_grade[key];//覆盖访问权限
+    }
+    if(key !== 'upFile'){
+        let obj = lurls[key];
+        let url = '/lead/' + key + (obj.url || '');
+        routes[obj.method ? obj.method : 'post'](url, lapi[key]);
+    }
+});
+//后台接口
 Object.getOwnPropertyNames(urls).forEach(key=>{
     if(common.page_grade.hasOwnProperty(key)){
         urls[key].userType = common.page_grade[key];//覆盖访问权限
@@ -124,6 +140,9 @@ async function verify(ctx) {
         if(ctx.url.substring(0,10) == '/api/backg'){
             urllist = urls;
             arr = /\/api\/backg\/([a-zA-Z]+)/.exec(ctx.url);
+        }else if(ctx.url.substring(0,9) == '/api/lead'){
+            urllist = lurls;
+            arr = /\/api\/lead\/([a-zA-Z]+)/.exec(ctx.url);
         }else{
             // urllist = qurls;
             // arr = /\/api\/repect\/([a-zA-Z]+)/.exec(ctx.url);

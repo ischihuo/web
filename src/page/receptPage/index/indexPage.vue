@@ -38,7 +38,7 @@
           
       },
       proclick(eve){
-        this.$router.push({path: "/article",query: {'id':eve}})
+        this.$router.push({path: "/proDetails",query: {'id':eve}})
       }
     },
     mounted() {

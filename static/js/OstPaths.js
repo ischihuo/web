@@ -28,6 +28,7 @@
   var ospath = "http://localhost:3000/api";
   var ospathrep = "http://localhost:3000/api/repect";
   var ospathbak = "http://localhost:3000/api/backg";
+  var ospathlead = "http://localhost:3000/api/lead";
 //   if(process.env.BUILD_FLAG === 'devBuild') {//本地部署环境
 //   } else if(process.env.BUILD_FLAG === 'test') {//测试部署环境
 //   } else if(process.env.BUILD_FLAG === 'online') {//线上部署环境
@@ -69,11 +70,14 @@
 
 
 
-    // 前台接口
+    // 前台接口公开
     'GETINDEXIMG':ospathrep+'/getIndexImg', //上传文件列表
     'GETLISTARTICLE':ospathrep+'/getListArticle', //获取首页推荐信息
     'GETARTICLEBYID':ospathrep+'/getArticleById', //获取首页推荐信息
     
+    
+    //前台接口需登录
+    'ADDPRO':ospathlead+'/addpro', //新增商品
     
   };
 

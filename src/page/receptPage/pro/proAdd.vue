@@ -12,7 +12,7 @@
         <el-form-item label="产品名称" prop="name">
           <el-input v-model="ruleForm.name"></el-input>
         </el-form-item>
-        <el-form-item label="展示图片" prop="imageUrl">
+        <el-form-item label="展示图片" prop="img_path">
           <el-upload
             class="avatar-uploader"
             :action="imgurl"
@@ -20,10 +20,10 @@
             :show-file-list="false"
             :on-success="handleAvatarSuccess"
             :before-upload="beforeAvatarUpload">
-            <img v-if="imageUrl" :src="imgPath+imageUrl" class="avatar">
+            <img v-if="img_path" :src="imgPath+img_path" class="avatar">
             <i v-else class="el-icon-plus avatar-uploader-icon"></i>
           </el-upload>
-          <el-input type="hidden" v-model="ruleForm.imageUrl"></el-input>
+          <el-input type="hidden" v-model="ruleForm.img_path"></el-input>
         </el-form-item>
         <!-- <el-form-item label="活动时间" required>
           <el-col :span="11">
@@ -42,8 +42,8 @@
           <el-switch v-model="ruleForm.delivery"></el-switch>
         </el-form-item> -->
         <el-form-item  class="addresslist" label="行政区划">
-          <el-form-item class="address" prop="areaProv">
-            <el-select v-model="ruleForm.areaProv" placeholder="请选择省份" @change="provchange">
+          <el-form-item class="address" prop="area_prov">
+            <el-select v-model="ruleForm.area_prov" placeholder="请选择省份" @change="provchange">
               <el-option
                 v-for="item in provoptions"
                 :key="item.code"
@@ -52,8 +52,8 @@
               </el-option>
             </el-select>
           </el-form-item>
-          <el-form-item class="address" prop="areaCity">
-            <el-select v-model="ruleForm.areaCity" placeholder="请选择市" @change="citychange">
+          <el-form-item class="address" prop="area_city">
+            <el-select v-model="ruleForm.area_city" placeholder="请选择市" @change="citychange">
               <el-option
                 v-for="item in cityoptions"
                 :key="item.code"
@@ -62,8 +62,8 @@
               </el-option>
             </el-select>
           </el-form-item>
-          <el-form-item class="address"  prop="areaCou">
-            <el-select v-model="ruleForm.areaCou" placeholder="请选择县/区" @change="couchange">
+          <el-form-item class="address"  prop="area_cou">
+            <el-select v-model="ruleForm.area_cou" placeholder="请选择县/区" @change="couchange">
               <el-option
                 v-for="item in couoptions"
                 :key="item.code"
@@ -77,15 +77,15 @@
           <el-input v-model="ruleForm.address"></el-input>
           <img src="../../../../static/image/addres.jpg" alt="点击定位" @click="dialogVisible=true">
         </el-form-item>
-        <el-form-item label="开放权限" prop="resource">
-          <el-radio-group v-model="ruleForm.resource">
-            <el-radio label="公开"></el-radio>
-            <el-radio label="粉丝可看"></el-radio>
+        <el-form-item label="开放权限" prop="read_type">
+          <el-radio-group v-model="ruleForm.read_type">
+            <el-radio label="0">公开</el-radio>
+            <el-radio label="1">粉丝可看</el-radio>
           </el-radio-group>
         </el-form-item>
-        <el-form-item label="活动形式" prop="desc">
+        <!-- <el-form-item label="活动形式" prop="desc">
           <el-input type="textarea" v-model="ruleForm.desc"></el-input>
-        </el-form-item>
+        </el-form-item> -->
         <el-form-item>
           <el-button type="primary" @click="submitForm('ruleForm')">下一步</el-button>
           <el-button @click="resetForm('ruleForm')">重置</el-button>
@@ -107,8 +107,8 @@
   export default {
     methods: {
       handleAvatarSuccess(res, file) {
-        this.imageUrl = file.response.data.filename;
-        this.ruleForm.imageUrl = file.response.data.filename;
+        this.img_path = file.response.data.filename;
+        this.ruleForm.img_path = file.response.data.filename;
       },
       beforeAvatarUpload(file){
         const isJPG = file.type === 'image/jpeg';
@@ -116,7 +116,6 @@
         const isPNG = file.type === 'image/png';
         const isBMP = file.type === 'image/bmp';
         const isLt10M = file.size / 1024 / 1024 < 10;
-
         if (!isJPG && !isGIF && !isPNG && !isBMP&& !isJPEG) {
             this.$alert('上传图片必须是JPG/GIF/PNG/BMP/jpeg 格式!');
         }
@@ -137,9 +136,7 @@
         // map.centerAndZoom(point, 15);
         map.enableScrollWheelZoom();
         map.enableInertialDragging();
-
         map.enableContinuousZoom();
-
         map.addControl(new BMap.CityListControl({
             // 切换城市之间事件
             // onChangeBefore: function(){
@@ -191,10 +188,10 @@
         });
         this.cityoptions = obj.children;
         if(type!==1){
-          this.ruleForm.areaCity = "";
-          this.ruleForm.areaCou = "";
+          this.ruleForm.area_city = "";
+          this.ruleForm.area_cou = "";
         }
-        // this.form.areaProv = obj.name
+        // this.form.area_prov = obj.name
         //this.couoptions = [];
       },
       citychange(value,type){
@@ -203,11 +200,11 @@
             return item.code === value;
         });
         if(type!==1){
-          this.ruleForm.areaCou = "";
+          this.ruleForm.area_cou = "";
         }
-        // this.form.areaCity = obj.name
+        // this.form.area_city = obj.name
         this.couoptions = obj.children;
-        //this.areaCity = false;
+        //this.area_city = false;
       },
       couchange(value){
         let obj = {};
@@ -215,12 +212,20 @@
             return item.code === value;
         });
         //this.ruleForm = false;
-        // this.form.areaCou = obj.name;
+        // this.form.area_cou = obj.name;
       },
       submitForm(formName) {
+        var _this = this;
         this.$refs[formName].validate((valid) => {
           if (valid) {
             // alert('submit!');
+            // ajax.call(this, Action.ADDPRO, this.ruleForm, (obj, err) => {
+            //   console.log(obj)
+            //     if (!err) {
+            //       this.$router.push('/proDetailsAdd');
+            //     }
+            // });
+            _this.setCookie("proinfo1",JSON.stringify(this.ruleForm))
             this.$router.push('/proDetailsAdd');
           } else {
             console.log('error submit!!');
@@ -230,12 +235,17 @@
       },
       resetForm(formName) {
         this.$refs[formName].resetFields();
-        this.imageUrl = ""
+        this.img_path = ""
       }
     },
     mounted() {
         console.log(this.dataStore.getType("SubAreas"))
         this.provoptions = this.dataStore.getType("SubAreas")[0].children;
+        if(this.getCookie("proinfo1")){
+          this.ruleForm = JSON.parse(this.getCookie("proinfo1"))
+          this.img_path = this.ruleForm.img_path;
+          console.log(this.img_path)
+        }
         this.ajaxData();
     },
     components: {
@@ -248,7 +258,7 @@
         hders:{
             Authorization:storage.get('userInfo').token || '',
             },
-        imageUrl: '',
+        img_path: '',
         provoptions:[],
         cityoptions:[],
         couoptions:[],
@@ -258,52 +268,39 @@
         address:'',
         ruleForm: {
           name: '',
-          imageUrl: '',
+          img_path: '',
           type: [],
-          resource: '',
+          read_type: '0',
           desc: '',
-          areaProv:'',
-          areaCity:'',
-          areaCou:'',
+          area_prov:'',
+          area_city:'',
+          area_cou:'',
           address:''
         },
         rules: {
           name: [
-            { required: true, message: '请输入活动名称', trigger: 'blur' },
+            { required: true, message: '请输入商品名称', trigger: 'blur' },
             { min: 3, max: 5, message: '长度在 3 到 5 个字符', trigger: 'blur' }
           ],
-          imageUrl: [
-            { required: true, message: '请选择活动区域', trigger: 'change' }
+          img_path: [
+            { required: true, message: '请上传展示图片', trigger: 'change' }
           ],
-          date1: [
-            { type: 'date', required: true, message: '请选择日期', trigger: 'change' }
+          read_type: [
+            { required: true, message: '请选择查看权限', trigger: 'change' }
           ],
-          date2: [
-            { type: 'date', required: true, message: '请选择时间', trigger: 'change' }
-          ],
-          type: [
-            { type: 'array', required: true, message: '请至少选择一个活动性质', trigger: 'change' }
-          ],
-          resource: [
-            { required: true, message: '请选择活动资源', trigger: 'change' }
-          ],
-          desc: [
-            { required: true, message: '请填写活动形式', trigger: 'blur' }
-          ],
-          areaProv: [
+          area_prov: [
             { required: true, message: ' ', trigger: 'change'}
           ],
-          areaCity: [
+          area_city: [
             { required: true, message: ' ', trigger: 'change' }
           ],
-          areaCou: [
+          area_cou: [
             { required: true, message: ' ', trigger: 'change' }
           ],
         }
       };
     },
   }
-
 </script>
 
 <style lang="less">

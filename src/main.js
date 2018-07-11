@@ -33,6 +33,8 @@ import {getCookie} from '../static/js/cookie.js'
 import {setCookie} from '../static/js/cookie.js'
 
 const router = new VueRouter(routes);
+Vue.prototype.getCookie = getCookie;
+Vue.prototype.setCookie = setCookie;
 
 router.beforeEach((to, from, next) => {
     window.scroll(0,0);
