@@ -117,12 +117,22 @@
         window.open('/proDetails');
       },
       submit(){
-        this.data.intro = JSON.parse(this.getCookie("proinfo1"));
-        this.data.imglist = this.imglist;
+        var _this = this;
+        this.data = JSON.parse(this.getCookie("proinfo1"));
+        this.data.imglist = [];
+        this.imglist.forEach(function(v,k){
+          _this.data.imglist.push(JSON.stringify(v))
+        })
+        //this.data.imglist.join('-')
+        //this.data.imglist = this.imglist;
+        console.log(this.data)
+        console.log(JSON.stringify(this.data.imglist).split('-'))
         ajax.call(this, Action.ADDPRO, this.data, (obj, err) => {
           console.log(obj)
             if (!err) {
-              this.$router.push('/proDetailsAdd');
+              this.setCookie('proinfo1','')
+              this.setCookie('proinfo2','')
+              this.$router.push('/proAddSuccess');
             }
         });
       }
@@ -143,7 +153,6 @@
             },
         imageUrl: '',
         data:{
-          intro:{},
           imglist:[]
         },
         ruleForm: {

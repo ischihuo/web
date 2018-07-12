@@ -46,11 +46,11 @@ const urls = {
 const qurls = {
     'getIndexImg': {userType:0},	//获取首页的轮播图
     'getListArticle':{},// 获取首页推荐信息
-    'getArticleById':{},// 获取文章详情
 };
 //前台接口需私有
 const lurls = {
     'addpro':{},//新增商品
+    'getProById':{},//查看商品
 };
 //前台接口公开
 Object.getOwnPropertyNames(qurls).forEach(key=>{

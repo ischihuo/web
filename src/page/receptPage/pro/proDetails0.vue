@@ -1,9 +1,9 @@
 <template>
   <div class="proDetails contbody" >
-    <div class="titlenm">{{data.title}}</div>
-    <div class="titledetail" v-for="item in data.detail.imglist" :key="item.id">
-      <img :src="imgPath+item.imageUrl" alt="">
-      <div>{{item.name}}</div>
+    <div class="titlenm">{{data.name}}</div>
+    <div class="titledetail" v-for="item in data.imglist" :key="item.id">
+      <img :src="imgPath+item.img_path" alt="">
+      <div>{{item.img_title}}</div>
     </div>
   </div>
 </template>
@@ -17,11 +17,22 @@
       },
     },
     mounted() {
-      if(this.getCookie('proinfo1')){
-        var proinfo1 = JSON.parse(this.getCookie('proinfo1'));
-        this.data.title = proinfo1.name;
-        this.data.detail = JSON.parse(this.getCookie('proinfo2'));
-        console.log(this.data)
+      let id = this.$route.query.id;
+      if(id){
+        ajax.call(this, Action.GETPROBYID, {id}, (obj, err) => {
+          console.log(obj)
+            if (!err) {
+              this.data = obj;
+              console.log(this.data)
+            }
+        });
+      }else{
+        if(this.getCookie('proinfo1')){
+          var proinfo1 = JSON.parse(this.getCookie('proinfo1'));
+          this.data = proinfo1.name;
+          this.data.imglist = JSON.parse(this.getCookie('proinfo2'));
+          console.log(this.data)
+        }
       }
         this.ajaxData();
     },
@@ -31,8 +42,8 @@
       return {
         imgPath:Action.imgPath,
         data:{
-          title:'',
-          detail:[]
+          name:'',
+          imglist:[]
         },
       };
     },

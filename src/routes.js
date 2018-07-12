@@ -16,6 +16,7 @@ import IndexPage from 'page/receptPage/index/indexPage.vue'
 import proDetails0 from 'page/receptPage/pro/proDetails0.vue'
 import proAdd from 'page/receptPage/pro/proAdd.vue'
 import proDetailsAdd from 'page/receptPage/pro/proDetailsAdd.vue'
+import proAddSuccess from 'page/receptPage/pro/proAddSuccess.vue'
 
 //todo 记录
 /*
@@ -187,6 +188,9 @@ export default {
             },{
                 path:'/proDetailsAdd',
                 component: proDetailsAdd,
+            },{
+                path:'/proAddSuccess',
+                component: proAddSuccess,
             }]
         }
     ]

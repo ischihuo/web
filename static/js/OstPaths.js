@@ -73,11 +73,12 @@
     // 前台接口公开
     'GETINDEXIMG':ospathrep+'/getIndexImg', //上传文件列表
     'GETLISTARTICLE':ospathrep+'/getListArticle', //获取首页推荐信息
-    'GETARTICLEBYID':ospathrep+'/getArticleById', //获取首页推荐信息
     
     
     //前台接口需登录
     'ADDPRO':ospathlead+'/addpro', //新增商品
+    'GETPROBYID':ospathlead+'/getProById', //查看商品
+    
     
   };
 
