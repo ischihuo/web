@@ -7,7 +7,7 @@ import jwt from 'jsonwebtoken'
 import common from './common'
 import nodemailer from 'nodemailer'
 
-//新添
+//新添商品
 async function addpro(ctx) {
     const data = ctx.request.body;
     const imglist = data.imglist;

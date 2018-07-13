@@ -44,6 +44,8 @@ const urls = {
 };
 //前台接口
 const qurls = {
+    'register':{},//注册新用户
+    'active':{},//激活
     'getIndexImg': {userType:0},	//获取首页的轮播图
     'getListArticle':{},// 获取首页推荐信息
 };

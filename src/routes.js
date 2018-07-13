@@ -11,12 +11,16 @@ import userAdd from 'page/backgPage/User/add.vue'
 import ImgList from 'page/backgPage/Img/list.vue'
 import ImgAdd from 'page/backgPage/Img/add.vue'
 // 前台
+import regist from 'page/receptPage/user/regist.vue'
+import active from 'page/receptPage/user/active.vue'
+import login from 'page/receptPage/user/login.vue'
 import Index from 'page/receptPage/index/index.vue'
 import IndexPage from 'page/receptPage/index/indexPage.vue'
 import proDetails0 from 'page/receptPage/pro/proDetails0.vue'
 import proAdd from 'page/receptPage/pro/proAdd.vue'
 import proDetailsAdd from 'page/receptPage/pro/proDetailsAdd.vue'
 import proAddSuccess from 'page/receptPage/pro/proAddSuccess.vue'
+import cersonMsg from 'page/receptPage/personalCenter/cersonMsg.vue'
 
 //todo 记录
 /*
@@ -191,7 +195,19 @@ export default {
             },{
                 path:'/proAddSuccess',
                 component: proAddSuccess,
-            }]
+            },{ 
+                path: '/cersonMsg',
+                component: cersonMsg }
+            ]
+        },{
+            path:'/regist',
+            component: regist
+        },{
+            path:'/active',
+            component: active
+        },{
+            path:'/login',
+            component: login
         }
     ]
 }

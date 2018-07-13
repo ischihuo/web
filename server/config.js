@@ -1,3 +1,4 @@
+import nodemailer from 'nodemailer'
 //后台配置文件
 export default {
     //数据库配置
@@ -34,5 +35,21 @@ export default {
             req.connection.socket.remoteAddress || '';
         let arr = ip.match(/(\d{1,3}\.){3}\d{1,3}/);
         return arr ? arr[0] : '';
+    },
+    //公用：发送邮件
+    sendEmail:function(email, title, body) {
+        return new Promise(resolve => {
+            let transporter = nodemailer.createTransport(config.emailServer);
+            let mailOptions = {
+                from: common.web_name+'<' + config.emailServer.auth.user + '>',
+                to: email,
+                subject: title,
+                html: body
+            };
+            transporter.sendMail(mailOptions, err => {
+                console.log(mailOptions,err)
+                resolve(err ? err : null);
+            });
+        })
     }
 }

@@ -39,8 +39,8 @@
   // 接口调用
   var Action = {
     // 登录
-    'LOGIN':ospathbak+'/login', //分类管理
-
+    'LOGIN':ospathbak+'/login', //登录
+    
     'LISTSORT':ospathbak+'/listSort', //分类管理
     'UPDATESORT':ospathbak+'/updateSort', //修改分类
     'LISTARTICLE':ospathbak+'/listArticle', //文章列表数据
@@ -54,7 +54,7 @@
     'GETUSERBYID':ospathbak+'/getUserById', //获取用户信息
     'UPDATEUSER':ospathbak+'/updateUser', //修改或新建用户信息
     
-
+    
     // 图片列表
     'LISTIMG':ospathbak+'/listImg', //图片列表
     'UPDATEIMG':ospathbak+'/updateImg', //修改文章
@@ -67,13 +67,14 @@
     'DELFILE':ospathbak+'/delFile', //删除文件
     'UPFILE':ospathbak+'/upFile', //上传文件
     'imgPath':"http://localhost:3001/upFile/",
-
-
-
+    
+    
+    
     // 前台接口公开
+    'ACTIVE':ospathrep+'/active', //用户激活
+    'REGISTER':ospathrep+'/register', //用户注册
     'GETINDEXIMG':ospathrep+'/getIndexImg', //上传文件列表
     'GETLISTARTICLE':ospathrep+'/getListArticle', //获取首页推荐信息
-    
     
     //前台接口需登录
     'ADDPRO':ospathlead+'/addpro', //新增商品

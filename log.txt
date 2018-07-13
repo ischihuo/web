@@ -2222,3 +2222,181 @@ server errorError: You have an error in your SQL syntax; check the manual that c
 POST /api/repect/getIndexImg 73ms 
 GET /upFile/1531101119919.jpg 8ms 
 GET /upFile/1531101135295.png 4ms 
+POST /api/backg/passedArticle 99ms 
+POST /api/backg/passedArticle 60ms 
+POST /api/backg/passedArticle 48ms 
+POST /api/backg/passedArticle 47ms 
+POST /api/repect/getIndexImg 22ms 
+POST /api/repect/getListArticle 24ms 
+GET /upFile/1531100913390.jpg 9ms 
+GET /upFile/1531101753058.png 5ms 
+GET /upFile/1531100862501.jpg 3ms 
+GET /upFile/1530772520248.jpg 4ms 
+POST /api/repect/getIndexImg 41ms 
+POST /api/repect/getListArticle 33ms 
+GET /upFile/1531101119919.jpg 3ms 
+GET /upFile/1531101135295.png 3ms 
+GET /upFile/1531101753058.png 1ms 
+GET /upFile/1531100913390.jpg 2ms 
+GET /upFile/1531100862501.jpg 10ms 
+GET /upFile/1530772520248.jpg 10ms 
+POST /api/repect/getIndexImg 168ms 
+GET /upFile/1531101119919.jpg 15ms 
+GET /upFile/1531101135295.png 6ms 
+POST /api/repect/getListArticle 265ms 
+GET /upFile/1531100913390.jpg 2ms 
+GET /upFile/1531101753058.png 6ms 
+GET /upFile/1531100862501.jpg 5ms 
+GET /upFile/1530772520248.jpg 1ms 
+POST /api/backg/listSort 721ms 
+POST /api/backg/listArticle 782ms 
+POST /api/repect/register 5ms 
+POST /api/repect/register 3ms 
+POST /api/repect/register 0ms 
+POST /api/repect/register 0ms 
+POST /api/repect/register 3ms 
+POST /api/repect/register 2ms 
+POST /api/repect/getIndexImg 144ms 
+POST /api/repect/getListArticle 144ms 
+GET /upFile/1531101119919.jpg 12ms 
+GET /upFile/1531101135295.png 2ms 
+GET /upFile/1531100913390.jpg 3ms 
+GET /upFile/1531101753058.png 3ms 
+GET /upFile/1531100862501.jpg 3ms 
+GET /upFile/1530772520248.jpg 39ms 
+POST /api/repect/register 0ms 
+POST /api/repect/register 2ms 
+server errorReferenceError: getClientIP is not defined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"112","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorReferenceError: getClientIP is not defined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"112","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorReferenceError: getClientIP is not defined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"112","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorReferenceError: getClientIP is not defined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"112","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorError: Column count doesn't match value count at row 1
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"112","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorError: Column count doesn't match value count at row 1
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"112","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorReferenceError: sendEmail is not defined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"112","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: _api2.default.sendEmail is not a function
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"112","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/register 37ms 
+server errorReferenceError: sendEmail is not defined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"113","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/register 55ms 
+server errorReferenceError: nodemailer is not defined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"112","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorReferenceError: nodemailer is not defined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"112","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/register 48ms 
+server errorReferenceError: config is not defined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"113","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/register 39ms 
+server errorReferenceError: sendEmail is not defined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"112","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorReferenceError: config is not defined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"112","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorReferenceError: config is not defined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxMzc1Njg3LCJleHAiOjE1MzE0NjIwODd9.4fmFB1Pge387KMQjZXeUx9eZJFjF6xc7P3Dpq2AEeG0","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"112","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/register 2724ms 
+GET /api/active/xiaodin/$2a$10$l1XSOlKS7TtdXbgl7jIp4uLY8xhUbxW8sezB0jfSLePisSzjm6M. 9ms 
+GET /favicon.ico 9ms 
+GET /api/active/xiaodin/$2a$10$l1XSOlKS7TtdXbgl7jIp4uLY8xhUbxW8sezB0jfSLePisSzjm6M. 2ms 
+POST /api/repect/register 2418ms 
+GET /index.html 10ms 
+GET /index.html 24ms 
+GET /index.html 1ms 
+GET /index.html 1ms 
+POST /api/repect/getIndexImg 130ms 
+POST /api/repect/getListArticle 132ms 
+GET /upFile/1531101119919.jpg 16ms 
+GET /upFile/1531101753058.png 6ms 
+GET /upFile/1531100913390.jpg 7ms 
+GET /upFile/1531101135295.png 8ms 
+GET /upFile/1531100862501.jpg 6ms 
+GET /upFile/1530772520248.jpg 5ms 
+POST /api/lead/getProById 84ms 
+POST /api/repect/getIndexImg 505ms 
+POST /api/repect/getListArticle 557ms 
+POST /api/lead/getProById 590ms 
+GET /upFile/1531101119919.jpg 19ms 
+GET /upFile/1531101135295.png 13ms 
+GET /upFile/1531100913390.jpg 4ms 
+GET /upFile/1531101753058.png 20ms 
+GET /upFile/1531100862501.jpg 23ms 
+GET /upFile/1530772520248.jpg 66ms 
+【非法请求方式：POST】POST /api/backg/active 5ms 
+【token验证错误！】POST /api/backg/active 10ms 
+【token验证错误！】POST /api/lead/getProById 5ms 
+POST /api/repect/active 9ms 
+OPTIONS /Login?active=lack 0ms 
+POST /api/repect/active 1ms 
+OPTIONS /Login?active=lack 0ms 
+POST /api/repect/active 7ms 
+OPTIONS /Login?active=lack 1ms 
+POST /api/backg/login 177ms 
+POST /api/lead/getProById 17ms 
+POST /api/repect/register 2126ms 
+POST /api/repect/active 1ms 
+OPTIONS /Login?active=lack 0ms 
+GET /index.html 7ms 
+POST /api/repect/register 488ms 
+POST /api/repect/register 612ms 
+POST /api/repect/active 0ms 
+OPTIONS /Login?active=lack 0ms 
+POST /api/repect/active 0ms 
+OPTIONS /Login?active=lack 0ms 
+POST /api/repect/active 1ms 
+OPTIONS /Login?active=lack 0ms 
+server errorReferenceError: success is not defined
+{"request":{"method":"POST","url":"/api/repect/active","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/active?name=xiaodd&code=ae3b2250-8665-11e8-9fe5-7b97debff1f4","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoxLCJ1c2VyX25hbWUiOiJhZG1pbiIsInVzZXJfdHlwZSI6MSwibW9iaWxlIjoiIiwidXNlcl9lbWFpbCI6IjEwMDAwQHFxLmNvbSIsImNyZWF0ZV90aW1lIjpudWxsLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsInVwZGF0ZV90aW1lIjoiMjAxOC0wNy0wMlQwMTo1NTo1NC4wMDBaIiwidXNlcl9waWMiOiIiLCJ1c2VyX2V4dGVuZCI6bnVsbCwiaWF0IjoxNTMxNDYyNjkwLCJleHAiOjE1MzE1NDkwOTB9.pINGDhMZqUGSTBIUGn1mA0SogI7tpm4S-o7gGHiVD_U","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"11","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/active","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/active 3ms 
+POST /api/repect/active 4ms 
+POST /api/repect/active 3ms 
+POST /api/repect/active 4ms 
+POST /api/repect/active 0ms 
+POST /api/repect/active 101ms 
+POST /api/repect/active 139ms 
+POST /api/repect/active 16ms 
+POST /api/repect/active 189ms 
+POST /api/repect/active 51ms 
+POST /api/repect/active 49ms 
+POST /api/repect/active 12ms 
+POST /api/repect/register 1982ms 
+POST /api/backg/login 18ms 
+POST /api/backg/login 9ms 
+POST /api/backg/login 8ms 
+POST /api/repect/register 344ms 
+POST /api/repect/active 21ms 
+POST /api/backg/login 142ms 
+POST /api/repect/active 6ms 
+POST /api/repect/active 49ms 
+POST /api/repect/active 23ms 
+POST /api/repect/active 21ms 
+POST /api/repect/active 48ms 
+POST /api/repect/active 51ms 
+POST /api/repect/register 346ms 
+POST /api/repect/active 8ms 
+POST /api/backg/login 123ms 
+POST /api/repect/active 7ms 
+POST /api/repect/active 17ms 
+POST /api/repect/active 37ms 
+POST /api/repect/active 49ms 
+POST /api/repect/active 37ms 
+POST /api/repect/active 15ms 
+POST /api/repect/active 45ms 
+POST /api/repect/active 47ms 
+POST /api/backg/login 138ms 
+POST /api/repect/active 53ms 
+POST /api/repect/active 49ms 
+POST /api/backg/login 164ms 
+POST /api/repect/getIndexImg 10ms 
+POST /api/repect/getListArticle 11ms 
+GET /upFile/1531101135295.png 5ms 
+GET /upFile/1531101753058.png 5ms 
+GET /upFile/1531101119919.jpg 10ms 
+GET /upFile/1530772520248.jpg 4ms 
+GET /upFile/1531100913390.jpg 3ms 
+GET /upFile/1531100862501.jpg 4ms 
