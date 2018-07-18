@@ -9,7 +9,7 @@
     </el-steps>
     <div tabindex="0" class="fl prolistadd">
       <div class="prolist" v-if="imglist" v-for="(item,index) in imglist" :key="item.id">
-        <img :src="imgPath+item.imageUrl" :alt="item.imageUrl" :title="item.name" @click="imgsee(index)">
+        <img :src="imgPath+item.img_path" :alt="item.img_path" :title="item.img_title" @click="imgsee(index)">
       </div>
       <i class="el-icon-plus avatar-uploader-icon" @click="resetForm()"></i>
       <el-button type="primary" @click="seeprohtml()">预览</el-button>
@@ -25,13 +25,13 @@
             :show-file-list="false"
             :on-success="handleAvatarSuccess"
             :before-upload="beforeAvatarUploadimg">
-            <img v-if="imageUrl" :src="imgPath+imageUrl" class="avatar">
+            <img v-if="img_path" :src="imgPath+img_path" class="avatar">
             <i v-else class="el-icon-plus avatar-uploader-icon"></i>
           </el-upload>
-          <el-input type="hidden" v-model="ruleForm.imageUrl"></el-input>
+          <el-input type="hidden" v-model="ruleForm.img_path"></el-input>
         </el-form-item>
         <el-form-item label="图片介绍" prop="name">
-          <el-input v-model="ruleForm.name"></el-input>
+          <el-input v-model="ruleForm.img_title"></el-input>
         </el-form-item>
         <el-form-item>
           <el-button type="primary" @click="submitForm('ruleForm')">保存</el-button>
@@ -49,8 +49,8 @@
   export default {
     methods: {
       handleAvatarSuccess(res, file) {
-        this.imageUrl = file.response.data.filename;
-        this.ruleForm.imageUrl = file.response.data.filename;
+        this.img_path = file.response.data.filename;
+        this.ruleForm.img_path = file.response.data.filename;
       },
       beforeAvatarUploadimg(file){
         const isJPG = file.type === 'image/jpeg';
@@ -75,10 +75,10 @@
           this.imftype = false;
           this.flag = false;
           this.ruleForm={
-            name: '',
-            imageUrl: '',
+            img_title: '',
+            img_path: '',
           }         
-          this.imageUrl = "";
+          this.img_path = "";
         }
        
       },
@@ -86,23 +86,23 @@
         this.index = eve;
         //this.ruleForm.name = this.imglist[eve].name;
         //console.log(this.ruleForm.name)
-        //this.imageUrl = this.ruleForm.imageUrl = this.imglist[eve].imageUrl;
+        //this.img_path = this.ruleForm.img_path = this.imglist[eve].img_path;
         this.ruleForm = {
-          name: this.imglist[eve].name,
-          imageUrl: this.imglist[eve].imageUrl,
+          img_title: this.imglist[eve].img_title,
+          img_path: this.imglist[eve].img_path,
         }
-        this.imageUrl = this.imglist[eve].imageUrl;
+        this.img_path = this.imglist[eve].img_path;
         this.flag = true;
         this.imftype = true;
       },
       deleteimg(){
-        this.imglist.splice(this.imglist.findIndex(item => item.imageUrl === this.ruleForm.imageUrl), 1)
+        this.imglist.splice(this.imglist.findIndex(item => item.img_path === this.ruleForm.img_path), 1)
         this.flag = false;
         this.ruleForm={
-          name: '',
-          imageUrl: '',
+          img_title: '',
+          img_path: '',
         }         
-        this.imageUrl = "";
+        this.img_path = "";
       },
       submitForm(){
         if(!this.imftype&&!this.index){
@@ -125,10 +125,7 @@
         })
         //this.data.imglist.join('-')
         //this.data.imglist = this.imglist;
-        console.log(this.data)
-        console.log(JSON.stringify(this.data.imglist).split('-'))
         ajax.call(this, Action.ADDPRO, this.data, (obj, err) => {
-          console.log(obj)
             if (!err) {
               this.setCookie('proinfo1','')
               this.setCookie('proinfo2','')
@@ -151,13 +148,13 @@
         hders:{
             Authorization:storage.get('userInfo').token || '',
             },
-        imageUrl: '',
+        img_path: '',
         data:{
           imglist:[]
         },
         ruleForm: {
-          name: '',
-          imageUrl: '',
+          img_title: '',
+          img_path: '',
         },
         imftype:false,
         imglist:[],

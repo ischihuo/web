@@ -75,10 +75,13 @@
     'REGISTER':ospathrep+'/register', //用户注册
     'GETINDEXIMG':ospathrep+'/getIndexImg', //上传文件列表
     'GETLISTARTICLE':ospathrep+'/getListArticle', //获取首页推荐信息
+    'GETPROBYID':ospathrep+'/getProById', //查看商品
     
     //前台接口需登录
     'ADDPRO':ospathlead+'/addpro', //新增商品
-    'GETPROBYID':ospathlead+'/getProById', //查看商品
+    'UPDTUSERINFO':ospathlead+'/updtUserInfo', //编辑个人信息
+    'GETUSERINFO':ospathlead+'/getUserInfo', //查询个人信息
+    
     
     
   };

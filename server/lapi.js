@@ -7,6 +7,64 @@ import jwt from 'jsonwebtoken'
 import common from './common'
 import nodemailer from 'nodemailer'
 
+//查询用户信息
+async function getUserInfo(ctx) {
+    const user = ctx.state.userInfo;
+    const connection = await mysql.createConnection(config.mysqlDB);
+    const [result] = await connection.execute('SELECT * FROM `userinfo` where `user_id`=?', [user.id]);
+    const obj = result[0];
+    ctx.body = {
+        success: true,
+        message: '',
+        data: {
+            result:obj
+        }
+    }
+}
+
+//修改用户信息
+async function updtUserInfo(ctx) {
+    const data = ctx.request.body;
+    let err;
+    const user = ctx.state.userInfo;
+    const obj = {
+        user_name:'昵称',
+        icon_path:'头像',
+        birthday:'生日',
+        sex:'性别',
+        hobby:'爱好',
+        userintro:'自我简介',
+        age:'年龄',
+    };
+    for(let key in obj){
+        if (!data[key]) {
+            err = obj[key]+'不能为空！';
+            break;
+        }
+    } 
+    const userarray = [
+        data.user_name,
+        data.user_intro,
+        data.icon_path,
+        data.hobby,
+        data.sex,
+        data.age,
+        new Date().toLocaleString(),
+        user.id,
+    ];
+    console.log(userarray)
+    const connection = await mysql.createConnection(config.mysqlDB);
+    const [list] = await connection.execute('UPDATE `userinfo` SET `user_name`=?, `user_intro`=?, `icon_path`=?, `hobby`=?,  `sex`=?, `age`=?, `update_time`=? where `user_id`=?', userarray);
+    const result = list[0];
+    ctx.body = {
+        success: true,
+        message: '',
+        data: {
+            'result':result
+        }
+    }
+}
+
 //新添商品
 async function addpro(ctx) {
     const data = ctx.request.body;
@@ -72,42 +130,8 @@ async function addpro(ctx) {
     }
 }
 
-//获取商品详情（管理员获取所有；会员获取自己的或者是审核通过的）
-async function getProById(ctx) {
-    const data = ctx.request.body;
-    let id = data.id >> 0;
-    let msg;
-    const connection = await mysql.createConnection(config.mysqlDB);
-    const [list] = await connection.execute("SELECT a.* FROM prolist as a  where a.id=?", [id]);
-    const obj = list[0];
-    const [imglist] = await connection.execute("SELECT * FROM proimglist where pro_id=?", [id]);
-    obj.imglist = imglist;
-    if(list.length === 1){
-        const user = ctx.state.userInfo;
-		obj.xx = JSON.stringify(user);
-        if(user.user_type > 2 && user.id !== obj.user_id){
-            if(obj.passed === 0){
-				obj.content = '<div class="no_access">文章仍在审核中<d>';
-            }else if(user.user_type > obj.read_type){
-                obj.content = '<div class="no_access">您无权查看此内容<d>';
-            }
-        }
-    }else{
-        msg = '查无此文章';
-    }
-    //扩展上一条下一条数据
-    let [prev] = await connection.execute("SELECT `id`,`title` FROM article where id<? order by id desc limit 1", [id]);
-    let [next] = await connection.execute("SELECT `id`,`title` FROM article where id>? order by id asc limit 1", [id]);
-    obj.prev = prev.length?prev[0]:{};
-    obj.next = next.length?next[0]:{};
-    await connection.end();
-    ctx.body = {
-        success: !msg,
-        message: msg,
-        data: !msg ? obj : {}
-    }
-}
 export default {
     addpro,
-    getProById,
+    getUserInfo,
+    updtUserInfo,
 }

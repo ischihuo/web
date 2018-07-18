@@ -7,8 +7,8 @@
         </el-carousel-item>
       </el-carousel>
       <div class="hotpro">热门</div>
-      <div class="prolist" v-for="item in prolist" :key="item.id">
-        <div class="proli" @click="proclick(item.id)">
+      <div class="prolist clearfloat" >
+        <div class="proli" v-for="item in prolist" :key="item.id" @click="proclick(item.id)">
           <img :src="imgPath+item.art_img" :alt="item.title">
           <div>{{item.title}}</div>
         </div>

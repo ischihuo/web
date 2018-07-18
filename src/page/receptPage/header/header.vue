@@ -16,7 +16,7 @@
         <el-submenu index="5">
             <template slot="title">个人中心</template>
             <el-menu-item index="5-1"><router-link to="/proAdd" >发布产品</router-link></el-menu-item>
-            <el-menu-item index="5-2">选项2</el-menu-item>
+            <el-menu-item index="5-2"><router-link to="/aboutMe" >我的相关</router-link></el-menu-item>
             <el-menu-item index="5-3">选项3</el-menu-item>
             <el-submenu index="5-4">
             <template slot="title">选项4</template>

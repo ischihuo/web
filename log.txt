@@ -2400,3 +2400,583 @@ GET /upFile/1531101119919.jpg 10ms
 GET /upFile/1530772520248.jpg 4ms 
 GET /upFile/1531100913390.jpg 3ms 
 GET /upFile/1531100862501.jpg 4ms 
+POST /api/repect/getIndexImg 121ms 
+POST /api/repect/getListArticle 152ms 
+GET /upFile/1531101135295.png 7ms 
+GET /upFile/1531101119919.jpg 19ms 
+GET /upFile/1531100862501.jpg 5ms 
+GET /upFile/1531101753058.png 7ms 
+GET /upFile/1531100913390.jpg 6ms 
+GET /upFile/1530772520248.jpg 6ms 
+【token验证错误！】POST /api/lead/getProById 1ms 
+POST /api/lead/getProById 0ms 
+【token验证错误！】【token验证错误！】POST /api/lead/getProById 0ms 
+POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+POST /api/repect/getIndexImg 5ms 
+POST /api/repect/getListArticle 5ms 
+GET /upFile/1531101119919.jpg 3ms 
+GET /upFile/1531101135295.png 3ms 
+GET /upFile/1531101753058.png 2ms 
+GET /upFile/1531100913390.jpg 2ms 
+GET /upFile/1531100862501.jpg 1ms 
+GET /upFile/1530772520248.jpg 4ms 
+POST /api/repect/getIndexImg 13ms 
+POST /api/repect/getListArticle 27ms 
+GET /upFile/1531101119919.jpg 1ms 
+GET /upFile/1531101135295.png 1ms 
+GET /upFile/1531101753058.png 3ms 
+GET /upFile/1531100913390.jpg 3ms 
+GET /upFile/1531100862501.jpg 2ms 
+GET /upFile/1530772520248.jpg 2ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+POST /api/repect/getListArticle 6ms 
+POST /api/repect/getIndexImg 10ms 
+GET /upFile/1531100913390.jpg 2ms 
+GET /upFile/1531101753058.png 3ms 
+GET /upFile/1531100862501.jpg 4ms 
+GET /upFile/1530772520248.jpg 3ms 
+GET /upFile/1531101119919.jpg 3ms 
+GET /upFile/1531101135295.png 3ms 
+POST /api/lead/getProById 0ms 
+【token验证错误！】【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 1ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+POST /api/repect/getIndexImg 23ms 
+POST /api/repect/getListArticle 34ms 
+GET /upFile/1531101119919.jpg 1ms 
+GET /upFile/1531101135295.png 1ms 
+GET /upFile/1531101753058.png 0ms 
+GET /upFile/1531100913390.jpg 2ms 
+GET /upFile/1531100862501.jpg 2ms 
+GET /upFile/1530772520248.jpg 3ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+【token验证错误！】POST /api/lead/getProById 0ms 
+POST /api/repect/getIndexImg 5ms 
+POST /api/repect/getListArticle 7ms 
+GET /upFile/1531101119919.jpg 3ms 
+GET /upFile/1531101135295.png 3ms 
+GET /upFile/1531101753058.png 1ms 
+GET /upFile/1531100913390.jpg 2ms 
+GET /upFile/1531100862501.jpg 2ms 
+GET /upFile/1530772520248.jpg 1ms 
+POST /api/repect/getProById 0ms 
+POST /api/repect/getIndexImg 62ms 
+POST /api/repect/getListArticle 68ms 
+POST /api/repect/getProById 148ms 
+POST /api/repect/getProById 34ms 
+POST /api/repect/getIndexImg 42ms 
+POST /api/repect/getListArticle 58ms 
+GET /upFile/1531101135295.png 4ms 
+GET /upFile/1531101753058.png 5ms 
+GET /upFile/1531101119919.jpg 13ms 
+GET /upFile/1531100913390.jpg 6ms 
+GET /upFile/1530772520248.jpg 7ms 
+GET /upFile/1531100862501.jpg 6ms 
+POST /api/repect/getProById 24ms 
+GET /upFile/1531366807756.png 1ms 
+POST /api/repect/getProById 11ms 
+GET /upFile/1531366807756.png 8ms 
+POST /api/repect/getProById 1090ms 
+GET /upFile/1531366807756.png 97ms 
+【token验证错误！】POST /api/backg/upFile 108ms 
+【token验证错误！】POST /api/backg/upFile 0ms 
+【token验证错误！】POST /api/backg/upFile 3ms 
+【token验证错误！】POST /api/backg/upFile 1ms 
+【token验证错误！】POST /api/backg/upFile 2ms 
+【token验证错误！】POST /api/backg/upFile 0ms 
+【token验证错误！】POST /api/backg/upFile 4ms 
+【token验证错误！】POST /api/backg/upFile 0ms 
+【token验证错误！】POST /api/backg/upFile 3ms 
+【token验证错误！】POST /api/backg/upFile 3ms 
+【token验证错误！】POST /api/backg/upFile 3ms 
+POST /api/repect/upFile 1ms 
+server errorTypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+{"request":{"method":"POST","url":"/api/repect/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/proAdd","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundarygnDzEOAtKgNVhWSD","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+{"request":{"method":"POST","url":"/api/repect/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/proAdd","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryvP4q1P9RxCG5SiuU","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorError: Incorrect integer value: '' for column 'user_id' at row 1
+{"request":{"method":"POST","url":"/api/repect/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/proAdd","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryJ8k0JVoBxBEMZFab","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/upFile 108ms 
+GET /upFile/1531721524596.png 10ms 
+server errorError: Incorrect integer value: 'null' for column 'user_id' at row 1
+{"request":{"method":"POST","url":"/api/repect/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/proAdd","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryTBKnSgmt5YJ5h8aV","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorError: Incorrect integer value: 'nologin' for column 'user_id' at row 1
+{"request":{"method":"POST","url":"/api/repect/upFile","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/proAdd","accept":"*/*","content-type":"multipart/form-data; boundary=----WebKitFormBoundaryVLQCmx1ZdlfDkhmL","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","origin":"http://localhost:3000","authorization":"","cache-control":"no-cache","pragma":"no-cache","content-length":"57817","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/upFile","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/upFile 139ms 
+GET /upFile/1531721584083.png 7ms 
+POST /api/repect/upFile 77ms 
+GET /upFile/1531721643336.png 2ms 
+POST /api/backg/login 150ms 
+POST /api/backg/listImg 47ms 
+POST /api/backg/listArticle 52ms 
+POST /api/backg/listSort 52ms 
+GET /index.html 2ms 
+POST /api/backg/listSort 21ms 
+POST /api/backg/getArticleById 7ms 
+GET /upFile/1531101753058.png 2ms 
+POST /api/repect/upFile 2ms 
+GET /index.html 9ms 
+GET /upFile/1531721584083.png 12ms 
+POST /api/backg/listSort 113ms 
+POST /api/backg/getArticleById 15ms 
+GET /upFile/1531101753058.png 1ms 
+POST /api/backg/upFile 114ms 
+GET /upFile/1531721841870.jpg 1ms 
+POST /api/backg/upFile 76ms 
+GET /upFile/1531722198614.png 1ms 
+GET /index.html 1ms 
+GET /index.html 1ms 
+GET /index.html 2ms 
+POST /api/backg/upFile 82ms 
+GET /upFile/1531722696896.png 2ms 
+GET /index.html 1ms 
+GET /index.html 1ms 
+GET /upFile/1531722696896.png 1ms 
+POST /api/backg/upFile 67ms 
+GET /upFile/1531722909676.jpg 13ms 
+GET /upFile/1531722696896.png 0ms 
+POST /api/backg/upFile 92ms 
+GET /upFile/1531722917304.jpg 1ms 
+GET /upFile/1531722696896.png 0ms 
+GET /upFile/1531722696896.png 1ms 
+GET /upFile/1531722917304.jpg 1ms 
+GET /upFile/1531722917304.jpg 3ms 
+GET /upFile/1531722696896.png 1ms 
+GET /upFile/1531722696896.png 2ms 
+GET /upFile/1531722917304.jpg 1ms 
+POST /api/repect/getIndexImg 251ms 
+GET /upFile/1531101119919.jpg 9ms 
+GET /upFile/1531101135295.png 3ms 
+POST /api/repect/getListArticle 323ms 
+GET /upFile/1531101753058.png 2ms 
+GET /upFile/1531100913390.jpg 2ms 
+GET /upFile/1531100862501.jpg 1ms 
+GET /upFile/1530772520248.jpg 3ms 
+POST /api/repect/getProById 105ms 
+GET /upFile/1531721841870.jpg 2ms 
+POST /api/backg/upFile 158ms 
+GET /upFile/1531726764794.jpg 2ms 
+POST /api/backg/upFile 64ms 
+GET /upFile/1531726800142.jpg 1ms 
+POST /api/backg/upFile 52ms 
+GET /upFile/1531726803263.png 2ms 
+GET /upFile/1531726764794.jpg 2ms 
+GET /upFile/1531726803263.png 1ms 
+GET /upFile/1531726764794.jpg 2ms 
+GET /upFile/1531726803263.png 1ms 
+GET /upFile/1531726764794.jpg 2ms 
+GET /upFile/1531726803263.png 1ms 
+GET /upFile/1531726764794.jpg 1ms 
+GET /upFile/1531726803263.png 1ms 
+GET /upFile/1531726764794.jpg 1ms 
+GET /upFile/1531726803263.png 1ms 
+GET /upFile/1531726764794.jpg 2ms 
+GET /upFile/1531726803263.png 1ms 
+GET /upFile/1531726764794.jpg 1ms 
+GET /upFile/1531726803263.png 1ms 
+GET /upFile/1531726764794.jpg 2ms 
+GET /upFile/1531726803263.png 1ms 
+GET /upFile/1531726803263.png 1ms 
+GET /upFile/1531726764794.jpg 2ms 
+GET /upFile/1531726764794.jpg 2ms 
+GET /upFile/1531726803263.png 1ms 
+GET /upFile/1531726764794.jpg 2ms 
+GET /upFile/1531726803263.png 1ms 
+GET /upFile/1531726764794.jpg 1ms 
+GET /upFile/1531726764794.jpg 0ms 
+GET /upFile/1531726764794.jpg 3ms 
+GET /index.html 1ms 
+GET /index.html 0ms 
+GET /index.html 1ms 
+GET /index.html 1ms 
+GET /index.html 0ms 
+GET /index.html 11ms 
+GET /index.html 1ms 
+GET /index.html 1ms 
+GET /index.html 3ms 
+GET /index.html 1ms 
+GET /index.html 3ms 
+GET /index.html 2ms 
+GET /index.html 3ms 
+GET /index.html 2ms 
+GET /index.html 2ms 
+GET /index.html 3ms 
+GET /index.html 2ms 
+GET /index.html 9ms 
+GET /index.html 1ms 
+GET /index.html 4ms 
+GET /index.html 1ms 
+GET /index.html 8ms 
+GET /index.html 9ms 
+GET /index.html 6ms 
+GET /index.html 2ms 
+GET /index.html 3ms 
+GET /index.html 5ms 
+POST /api/repect/getIndexImg 263ms 
+GET /upFile/1531101119919.jpg 9ms 
+GET /upFile/1531101135295.png 4ms 
+POST /api/repect/getListArticle 332ms 
+GET /upFile/1531101753058.png 2ms 
+GET /upFile/1531100913390.jpg 1ms 
+GET /upFile/1531100862501.jpg 1ms 
+GET /upFile/1530772520248.jpg 1ms 
+GET /index.html 2ms 
+GET /index.html 2ms 
+GET /index.html 10ms 
+GET /index.html 0ms 
+GET /index.html 1ms 
+GET /index.html 1ms 
+GET /index.html 2ms 
+GET /index.html 1ms 
+GET /index.html 3ms 
+GET /index.html 2ms 
+GET /index.html 2ms 
+GET /index.html 19ms 
+POST /api/backg/upFile 280ms 
+GET /upFile/1531792721292.jpg 1ms 
+GET /index.html 1ms 
+POST /api/backg/upFile 64ms 
+GET /upFile/1531792762623.jpg 2ms 
+POST /api/backg/upFile 95ms 
+POST /api/backg/upFile 43ms 
+GET /index.html 0ms 
+POST /api/backg/upFile 88ms 
+POST /api/backg/upFile 162ms 
+GET /index.html 4ms 
+POST /api/backg/upFile 55ms 
+GET /upFile/1531793083496.jpg 3ms 
+POST /api/backg/upFile 73ms 
+GET /upFile/1531793090800.jpg 10ms 
+POST /api/backg/upFile 56ms 
+GET /upFile/1531793189332.jpg 3ms 
+POST /api/backg/upFile 210ms 
+GET /upFile/1531795069254.jpg 12ms 
+server errorTypeError: Cannot read property 'v1' of undefined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyMywidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjoxLCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiI0Y2E2OWVjMC04NjZmLTExZTgtOTYxMS0zMWUwNTJlNGFkYWUiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTNUMDc6MzU6MjIuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE2VDA1OjU2OjI4LjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE3MjE2ODMsImV4cCI6MTUzMTgwODA4M30.rmbn70OxbxC5iM3mkgGdpEIFuTidwLDb9oWSs1ZaMsY","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"115","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property 'v1' of undefined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyMywidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjoxLCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiI0Y2E2OWVjMC04NjZmLTExZTgtOTYxMS0zMWUwNTJlNGFkYWUiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTNUMDc6MzU6MjIuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE2VDA1OjU2OjI4LjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE3MjE2ODMsImV4cCI6MTUzMTgwODA4M30.rmbn70OxbxC5iM3mkgGdpEIFuTidwLDb9oWSs1ZaMsY","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"115","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property 'v1' of undefined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyMywidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjoxLCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiI0Y2E2OWVjMC04NjZmLTExZTgtOTYxMS0zMWUwNTJlNGFkYWUiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTNUMDc6MzU6MjIuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE2VDA1OjU2OjI4LjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE3MjE2ODMsImV4cCI6MTUzMTgwODA4M30.rmbn70OxbxC5iM3mkgGdpEIFuTidwLDb9oWSs1ZaMsY","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"115","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/getIndexImg 171ms 
+POST /api/repect/getListArticle 54ms 
+GET /upFile/1531101119919.jpg 18ms 
+GET /upFile/1531101135295.png 9ms 
+GET /upFile/1531101753058.png 7ms 
+GET /upFile/1531100913390.jpg 7ms 
+GET /upFile/1531100862501.jpg 7ms 
+GET /upFile/1530772520248.jpg 7ms 
+server errorTypeError: Cannot read property 'v1' of undefined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyMywidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjoxLCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiI0Y2E2OWVjMC04NjZmLTExZTgtOTYxMS0zMWUwNTJlNGFkYWUiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTNUMDc6MzU6MjIuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE2VDA1OjU2OjI4LjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE3MjE2ODMsImV4cCI6MTUzMTgwODA4M30.rmbn70OxbxC5iM3mkgGdpEIFuTidwLDb9oWSs1ZaMsY","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"115","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/getIndexImg 82ms 
+POST /api/repect/getListArticle 103ms 
+GET /upFile/1531101119919.jpg 13ms 
+GET /upFile/1531101135295.png 7ms 
+GET /upFile/1531101753058.png 6ms 
+GET /upFile/1531100913390.jpg 6ms 
+GET /upFile/1531100862501.jpg 6ms 
+GET /upFile/1530772520248.jpg 5ms 
+server errorTypeError: Cannot read property 'v1' of undefined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyMywidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjoxLCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiI0Y2E2OWVjMC04NjZmLTExZTgtOTYxMS0zMWUwNTJlNGFkYWUiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTNUMDc6MzU6MjIuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE2VDA1OjU2OjI4LjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE3MjE2ODMsImV4cCI6MTUzMTgwODA4M30.rmbn70OxbxC5iM3mkgGdpEIFuTidwLDb9oWSs1ZaMsY","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"115","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/getListArticle 83ms 
+POST /api/repect/getIndexImg 103ms 
+GET /upFile/1531101753058.png 10ms 
+GET /upFile/1531100913390.jpg 3ms 
+GET /upFile/1531100862501.jpg 2ms 
+GET /upFile/1530772520248.jpg 1ms 
+GET /upFile/1531101119919.jpg 5ms 
+GET /upFile/1531101135295.png 8ms 
+server errorTypeError: Cannot read property 'v1' of undefined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyMywidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjoxLCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiI0Y2E2OWVjMC04NjZmLTExZTgtOTYxMS0zMWUwNTJlNGFkYWUiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTNUMDc6MzU6MjIuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE2VDA1OjU2OjI4LjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE3MjE2ODMsImV4cCI6MTUzMTgwODA4M30.rmbn70OxbxC5iM3mkgGdpEIFuTidwLDb9oWSs1ZaMsY","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"115","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/backg/listImg 40ms 
+server errorTypeError: Cannot read property 'v1' of undefined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"115","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/getListArticle 56ms 
+POST /api/repect/getIndexImg 79ms 
+GET /upFile/1531101753058.png 13ms 
+GET /upFile/1531100913390.jpg 7ms 
+GET /upFile/1530772520248.jpg 5ms 
+GET /upFile/1531100862501.jpg 6ms 
+GET /upFile/1531101119919.jpg 3ms 
+GET /upFile/1531101135295.png 4ms 
+server errorTypeError: Cannot read property 'v1' of undefined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"115","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/getIndexImg 90ms 
+POST /api/repect/getListArticle 133ms 
+POST /api/repect/getIndexImg 118ms 
+GET /upFile/1531101135295.png 5ms 
+GET /upFile/1531101119919.jpg 14ms 
+GET /upFile/1531101753058.png 23ms 
+GET /upFile/1531100913390.jpg 21ms 
+GET /upFile/1531100862501.jpg 21ms 
+GET /upFile/1530772520248.jpg 20ms 
+POST /api/repect/getIndexImg 213ms 
+POST /api/repect/getListArticle 261ms 
+POST /api/repect/getListArticle 89ms 
+GET /upFile/1531101119919.jpg 3ms 
+GET /upFile/1531101135295.png 1ms 
+GET /upFile/1531101753058.png 8ms 
+GET /upFile/1531100913390.jpg 2ms 
+GET /upFile/1531100862501.jpg 2ms 
+GET /upFile/1530772520248.jpg 4ms 
+GET /upFile/1531101119919.jpg 5ms 
+GET /upFile/1531101135295.png 1ms 
+GET /upFile/1531101753058.png 4ms 
+GET /upFile/1531100913390.jpg 3ms 
+GET /upFile/1531100862501.jpg 1ms 
+GET /upFile/1530772520248.jpg 2ms 
+POST /api/repect/getIndexImg 71ms 
+POST /api/repect/getListArticle 110ms 
+GET /upFile/1531101119919.jpg 3ms 
+GET /upFile/1531101135295.png 2ms 
+GET /upFile/1531101753058.png 4ms 
+GET /upFile/1531100913390.jpg 5ms 
+GET /upFile/1531100862501.jpg 5ms 
+GET /upFile/1530772520248.jpg 5ms 
+POST /api/repect/getIndexImg 19ms 
+POST /api/repect/getListArticle 24ms 
+GET /upFile/1531101119919.jpg 3ms 
+GET /upFile/1531101135295.png 1ms 
+GET /upFile/1531101753058.png 2ms 
+GET /upFile/1531100913390.jpg 2ms 
+GET /upFile/1531100862501.jpg 1ms 
+GET /upFile/1530772520248.jpg 6ms 
+server errorTypeError: Cannot read property 'v1' of undefined
+{"request":{"method":"POST","url":"/api/repect/register","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/regist","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"115","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/register","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/register 791ms 
+POST /api/repect/active 32ms 
+POST /api/repect/register 892ms 
+server errorTypeError: Cannot read property '0' of undefined
+{"request":{"method":"POST","url":"/api/repect/active","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/active?name=xiaodd&code=c66eea50-898a-11e8-95b1-07a03067155d","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","content-length":"53","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/active","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '0' of undefined
+{"request":{"method":"POST","url":"/api/repect/active","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/active?name=xiaodd&code=c66eea50-898a-11e8-95b1-07a03067155d","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","content-length":"53","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/active","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '0' of undefined
+{"request":{"method":"POST","url":"/api/repect/active","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/active?name=xiaodd&code=c66eea50-898a-11e8-95b1-07a03067155d","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","content-length":"53","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/active","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '0' of undefined
+{"request":{"method":"POST","url":"/api/repect/active","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/active?name=xiaodd&code=c66eea50-898a-11e8-95b1-07a03067155d","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","content-length":"53","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/active","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property 'id' of undefined
+{"request":{"method":"POST","url":"/api/repect/active","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/active?name=xiaodd&code=c66eea50-898a-11e8-95b1-07a03067155d","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","content-length":"53","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/active","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property 'BinaryRow' of undefined
+{"request":{"method":"POST","url":"/api/repect/active","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/active?name=xiaodd&code=c66eea50-898a-11e8-95b1-07a03067155d","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","content-length":"53","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/active","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorTypeError: Cannot read property '0' of undefined
+{"request":{"method":"POST","url":"/api/repect/active","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/active?name=xiaodd&code=c66eea50-898a-11e8-95b1-07a03067155d","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","content-length":"53","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/repect/active","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/repect/active 288ms 
+POST /api/backg/login 334ms 
+POST /api/repect/getIndexImg 21ms 
+POST /api/repect/getListArticle 24ms 
+GET /upFile/1531101119919.jpg 15ms 
+GET /upFile/1531101135295.png 7ms 
+GET /upFile/1531101753058.png 7ms 
+GET /upFile/1531100913390.jpg 7ms 
+GET /upFile/1531100862501.jpg 7ms 
+GET /upFile/1530772520248.jpg 13ms 
+【token验证错误！】POST /api/lead/updtUserInfo 0ms 
+【token验证错误！】POST /api/lead/updtUserInfo 0ms 
+POST /api/backg/login 213ms 
+POST /api/repect/getIndexImg 11ms 
+POST /api/repect/getListArticle 37ms 
+GET /upFile/1531101119919.jpg 3ms 
+GET /upFile/1531101135295.png 3ms 
+GET /upFile/1531101753058.png 3ms 
+GET /upFile/1531100913390.jpg 3ms 
+GET /upFile/1530772520248.jpg 4ms 
+GET /upFile/1531100862501.jpg 6ms 
+GET /upFile/1531726764794.jpg 1ms 
+【token验证错误！】POST /api/lead/updtUserInfo 0ms 
+POST /api/backg/login 240ms 
+server errorReferenceError: page is not defined
+{"request":{"method":"POST","url":"/api/lead/updtUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"0","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/updtUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorReferenceError: page is not defined
+{"request":{"method":"POST","url":"/api/lead/updtUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"0","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/updtUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorReferenceError: list is not defined
+{"request":{"method":"POST","url":"/api/lead/getUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"0","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/getUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/lead/getUserInfo 113ms 
+POST /api/lead/getUserInfo 110ms 
+POST /api/lead/getUserInfo 37ms 
+POST /api/lead/getUserInfo 127ms 
+POST /api/lead/getUserInfo 46ms 
+POST /api/lead/getUserInfo 118ms 
+POST /api/lead/getUserInfo 99ms 
+POST /api/lead/getUserInfo 52ms 
+POST /api/lead/getUserInfo 108ms 
+POST /api/lead/getUserInfo 50ms 
+POST /api/lead/getUserInfo 295ms 
+POST /api/lead/getUserInfo 10ms 
+POST /api/lead/getUserInfo 193ms 
+POST /api/lead/getUserInfo 39ms 
+POST /api/lead/getUserInfo 61ms 
+POST /api/lead/getUserInfo 25ms 
+POST /api/lead/getUserInfo 197ms 
+POST /api/lead/getUserInfo 73ms 
+POST /api/lead/getUserInfo 50ms 
+POST /api/lead/getUserInfo 226ms 
+POST /api/backg/upFile 200ms 
+GET /upFile/1531817227642.jpg 10ms 
+POST /api/lead/getUserInfo 31ms 
+POST /api/lead/getUserInfo 31ms 
+POST /api/lead/getUserInfo 64ms 
+POST /api/lead/getUserInfo 26ms 
+POST /api/backg/upFile 119ms 
+GET /upFile/1531817464533.jpg 2ms 
+POST /api/lead/getUserInfo 7ms 
+POST /api/lead/getUserInfo 23ms 
+POST /api/lead/getUserInfo 33ms 
+POST /api/backg/upFile 104ms 
+GET /upFile/1531817528749.jpg 4ms 
+server errorReferenceError: err is not defined
+{"request":{"method":"POST","url":"/api/lead/updtUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"256","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/updtUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorReferenceError: userarray is not defined
+{"request":{"method":"POST","url":"/api/lead/updtUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"256","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/updtUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`user_intro`=? `icon_path`=? `hobby`=?  `sex`=? `age`=? `create_time`=? where `u' at line 1
+{"request":{"method":"POST","url":"/api/lead/updtUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"256","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/updtUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/lead/getUserInfo 78ms 
+POST /api/lead/getUserInfo 53ms 
+GET /upFile//icon/tx0.jpg 14ms 
+GET /upFile//icon/tx1.jpg 6ms 
+GET /upFile//icon/tx2.jpg 6ms 
+GET /upFile//icon/tx3.jpg 5ms 
+GET /upFile//icon/tx4.jpg 5ms 
+server errorError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`user_intro`=? `icon_path`=? `hobby`=?  `sex`=? `age`=? `create_time`=? where `u' at line 1
+{"request":{"method":"POST","url":"/api/lead/updtUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"241","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/updtUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/lead/getUserInfo 32ms 
+POST /api/lead/getUserInfo 88ms 
+POST /api/lead/getUserInfo 40ms 
+POST /api/lead/getUserInfo 11ms 
+POST /api/lead/getUserInfo 48ms 
+POST /api/lead/getUserInfo 63ms 
+POST /api/lead/getUserInfo 100ms 
+POST /api/lead/getUserInfo 39ms 
+POST /api/lead/getUserInfo 32ms 
+POST /api/lead/getUserInfo 115ms 
+POST /api/lead/getUserInfo 29ms 
+POST /api/lead/getUserInfo 49ms 
+POST /api/lead/getUserInfo 8ms 
+POST /api/lead/getUserInfo 54ms 
+GET /upFile//icon/tx0.jpg 4ms 
+GET /upFile//icon/tx1.jpg 3ms 
+GET /upFile//icon/tx3.jpg 3ms 
+GET /upFile//icon/tx2.jpg 3ms 
+GET /upFile//icon/tx4.jpg 3ms 
+server errorError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`user_intro`=? `icon_path`=? `hobby`=?  `sex`=? `age`=? `create_time`=? where `u' at line 1
+{"request":{"method":"POST","url":"/api/lead/updtUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"212","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/updtUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/lead/getUserInfo 27ms 
+GET /upFile//icon/tx1.jpg 2ms 
+GET /upFile//icon/tx2.jpg 2ms 
+GET /upFile//icon/tx0.jpg 4ms 
+GET /upFile//icon/tx3.jpg 3ms 
+GET /upFile//icon/tx4.jpg 3ms 
+server errorError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`user_intro`=? `icon_path`=? `hobby`=?  `sex`=? `age`=? `create_time`=? where `u' at line 1
+{"request":{"method":"POST","url":"/api/lead/updtUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"283","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/updtUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/lead/getUserInfo 95ms 
+GET /upFile//icon/tx0.jpg 2ms 
+GET /upFile//icon/tx1.jpg 1ms 
+GET /upFile//icon/tx2.jpg 2ms 
+GET /upFile//icon/tx3.jpg 2ms 
+GET /upFile//icon/tx4.jpg 2ms 
+server errorError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`user_intro`=? `icon_path`=? `hobby`=?  `sex`=? `age`=? `create_time`=? where `u' at line 1
+{"request":{"method":"POST","url":"/api/lead/updtUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"261","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/updtUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/lead/getUserInfo 169ms 
+GET /upFile//icon/tx0.jpg 22ms 
+GET /upFile//icon/tx1.jpg 6ms 
+GET /upFile//icon/tx2.jpg 6ms 
+GET /upFile//icon/tx3.jpg 5ms 
+GET /upFile//icon/tx4.jpg 4ms 
+server errorError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`user_intro`=? `icon_path`=? `hobby`=?  `sex`=? `age`=? `create_time`=? where `u' at line 1
+{"request":{"method":"POST","url":"/api/lead/updtUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"241","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/updtUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`user_intro`=? `icon_path`=? `hobby`=?  `sex`=? `age`=? `update_time`=? where `u' at line 1
+{"request":{"method":"POST","url":"/api/lead/updtUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"241","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/updtUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`user_intro`=? `icon_path`=? `hobby`=?  `sex`=? `age`=? `update_time`=? where `u' at line 1
+{"request":{"method":"POST","url":"/api/lead/updtUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"241","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/updtUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+server errorError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`user_intro`=? `icon_path`=? `hobby`=?  `sex`=? `age`=? `update_time`=? where `u' at line 1
+{"request":{"method":"POST","url":"/api/lead/updtUserInfo","header":{"accept-language":"zh-CN,zh;q=0.9","accept-encoding":"gzip, deflate, br","referer":"http://localhost:3000/completeInfo","content-type":"application/x-www-form-urlencoded; charset=UTF-8","user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36","authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEyNy4wLjAuMSIsImlkIjoyNSwidXNlcl9uYW1lIjoieGlhb2RkIiwidXNlcl90eXBlIjo0LCJtb2JpbGUiOiIxODg4ODg4ODg4OCIsInVzZXJfZW1haWwiOiJsamIzNDM1MjExMDNAMTYzLmNvbSIsImNvZGUiOiJjNjZlZWE1MC04OThhLTExZTgtOTViMS0wN2EwMzA2NzE1NWQiLCJjcmVhdGVfdGltZSI6IjIwMTgtMDctMTdUMDY6Mjk6MzYuMDAwWiIsImxvZ2luX2lwIjoiMTI3LjAuMC4xIiwidXBkYXRlX3RpbWUiOiIyMDE4LTA3LTE3VDA2OjM2OjAxLjAwMFoiLCJ1c2VyX3BpYyI6IiIsInVzZXJfZXh0ZW5kIjpudWxsLCJpYXQiOjE1MzE4MTQ2MzksImV4cCI6MTUzMTkwMTAzOX0.TaOuILA5Ecmo6_0FCGka-MKYxEUVGCCZeumxzfsk4OM","origin":"http://localhost:3000","accept":"application/json, text/plain, */*","cache-control":"no-cache","pragma":"no-cache","content-length":"241","connection":"close","host":"localhost:3001"}},"response":{"status":404,"message":"Not Found","header":{}},"app":{"subdomainOffset":2,"proxy":false,"env":"development"},"originalUrl":"/api/lead/updtUserInfo","req":"<original node req>","res":"<original node res>","socket":"<original node socket>"}
+POST /api/lead/updtUserInfo 121ms 
+POST /api/lead/getUserInfo 202ms 
+GET /upFile//icon/tx1.jpg 11ms 
+POST /api/lead/getUserInfo 16ms 
+GET /upFile//icon/tx1.jpg 22ms 
+GET /upFile//icon/tx0.jpg 1ms 
+GET /upFile//icon/tx2.jpg 1ms 
+GET /upFile//icon/tx4.jpg 3ms 
+GET /upFile//icon/tx3.jpg 6ms 
+POST /api/backg/upFile 117ms 
+GET /upFile/1531820060092.png 1ms 
+POST /api/lead/updtUserInfo 66ms 
+POST /api/lead/getUserInfo 15ms 
+GET /upFile//icon/tx4.jpg 5ms 
+GET /upFile//icon/tx0.jpg 5ms 
+GET /upFile//icon/tx1.jpg 4ms 
+GET /upFile//icon/tx3.jpg 2ms 
+GET /upFile//icon/tx2.jpg 4ms 
+POST /api/repect/getIndexImg 38ms 
+GET /upFile/1531101119919.jpg 2ms 
+GET /upFile/1531101135295.png 3ms 
+POST /api/repect/getListArticle 36ms 
+GET /upFile/1531101753058.png 3ms 
+GET /upFile/1530772520248.jpg 4ms 
+GET /upFile/1531100862501.jpg 6ms 
+GET /upFile/1531100913390.jpg 5ms 
+POST /api/backg/listImg 37ms 
+POST /api/backg/listImg 7ms 
+POST /api/backg/listImg 47ms 
+POST /api/backg/login 301ms 
+POST /api/backg/listSort 67ms 
+POST /api/backg/listArticle 93ms 
+POST /api/backg/listImg 20ms 
+POST /api/backg/listSort 7ms 
+GET /index.html 1ms 
+POST /api/backg/getImgById 15ms 
+GET /upFile/1531101119919.jpg 7ms 
+POST /api/backg/upFile 130ms 
+GET /upFile/1531820192632.jpg 1ms 
+POST /api/backg/updateImg 57ms 
+POST /api/backg/listImg 7ms 
+GET /index.html 0ms 
+POST /api/backg/listSort 19ms 
+POST /api/backg/getImgById 8ms 
+POST /api/backg/listImg 19ms 
+GET /index.html 3ms 
+POST /api/backg/listSort 62ms 
+POST /api/backg/getImgById 19ms 
+GET /upFile/1531101135295.png 1ms 
+POST /api/backg/upFile 95ms 
+GET /upFile/1531820218859.jpg 8ms 
+POST /api/backg/updateImg 42ms 
+POST /api/backg/listImg 26ms 
+POST /api/repect/getListArticle 35ms 
+POST /api/repect/getIndexImg 42ms 
+GET /upFile/1531101753058.png 2ms 
+GET /upFile/1531100913390.jpg 2ms 
+GET /upFile/1530772520248.jpg 1ms 
+GET /upFile/1531100862501.jpg 3ms 
+GET /upFile/1531820218859.jpg 2ms 
+GET /upFile/1531820192632.jpg 3ms 
+POST /api/backg/listImg 8ms 
+POST /api/repect/getIndexImg 226ms 
+GET /upFile/1531820192632.jpg 9ms 
+GET /upFile/1531820218859.jpg 3ms 
+POST /api/repect/getListArticle 308ms 
+GET /upFile/1531101753058.png 2ms 
+GET /upFile/1531100913390.jpg 2ms 
+GET /upFile/1530772520248.jpg 2ms 
+GET /upFile/1531100862501.jpg 2ms 
+POST /api/repect/getListArticle 8ms 
+POST /api/repect/getIndexImg 12ms 
+GET /upFile/1531101753058.png 6ms 
+GET /upFile/1531100913390.jpg 3ms 
+GET /upFile/1531100862501.jpg 4ms 
+GET /upFile/1530772520248.jpg 3ms 
+GET /upFile/1531820218859.jpg 1ms 
+GET /upFile/1531820192632.jpg 2ms 
+POST /api/backg/listImg 9ms 

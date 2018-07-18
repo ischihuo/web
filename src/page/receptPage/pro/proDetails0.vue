@@ -3,7 +3,11 @@
     <div class="titlenm">{{data.name}}</div>
     <div class="titledetail" v-for="item in data.imglist" :key="item.id">
       <img :src="imgPath+item.img_path" alt="">
-      <div>{{item.img_title}}</div>
+      <div class="imgtitle">{{item.img_title}}</div>
+    </div>
+    <div class="collect">
+      <i :class="collect"></i>
+      <span>已收藏</span>
     </div>
   </div>
 </template>
@@ -29,9 +33,9 @@
       }else{
         if(this.getCookie('proinfo1')){
           var proinfo1 = JSON.parse(this.getCookie('proinfo1'));
-          this.data = proinfo1.name;
-          this.data.imglist = JSON.parse(this.getCookie('proinfo2'));
-          console.log(this.data)
+          this.data = proinfo1;
+          this.data.imglist = JSON.parse(this.getCookie('proinfo2')).imglist;
+          console.log(JSON.parse(this.getCookie('proinfo2')))
         }
       }
         this.ajaxData();
@@ -45,6 +49,7 @@
           name:'',
           imglist:[]
         },
+        collect:'el-icon-star-off'
       };
     },
   }
@@ -61,11 +66,28 @@
       margin-bottom: 20px;
     }
     .titledetail{
-      padding: 0 40px;
+      font-family: 'KaiTi';
+      padding: 0 140px;
+      margin: 10px 0;
+    }
+    .titledetail .imgtitle{
+      padding: 10px;
+      background: #f1f1f1;
+      color: #000;
     }
     .titledetail img{
-      width: 1040px;
-      height: 500px;
+      width: 840px;
+      height: 400px;
+    }
+    .collect{
+      width: 60px;
+      margin: 0 auto;
+      text-align: center;
+      cursor: pointer;
+    }
+    .collect i{
+      width: 60px;
+      font-size: 25px;
     }
   }
   

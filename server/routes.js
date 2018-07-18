@@ -48,11 +48,13 @@ const qurls = {
     'active':{},//激活
     'getIndexImg': {userType:0},	//获取首页的轮播图
     'getListArticle':{},// 获取首页推荐信息
+    'getProById':{},//查看商品
 };
 //前台接口需私有
 const lurls = {
     'addpro':{},//新增商品
-    'getProById':{},//查看商品
+    'updtUserInfo':{},//编辑个人信息
+    'getUserInfo':{},//查询个人信息
 };
 //前台接口公开
 Object.getOwnPropertyNames(qurls).forEach(key=>{
@@ -92,7 +94,6 @@ Object.getOwnPropertyNames(urls).forEach(key=>{
 //文件上传配置
 const storage = multer.diskStorage({
     destination: function (req, file, cb) {
-        console.log(req.body)
         if (!fs.existsSync(config.upPath)) {
             fs.mkdirSync(config.upPath);
         }
@@ -111,7 +112,6 @@ const storage = multer.diskStorage({
 //上传文件
 routes.post('/backg/upFile', multer({storage}).single('file'), async ctx => {
     const {originalname,mimetype,filename,path,size} = ctx.req.file;
-    console.log(ctx.req.file)
     let msg,is_del = 0;
     // let fullPath = common.web_domain + config.upPath.replace('dist/','/') + filename;
     let fullPath = filename;

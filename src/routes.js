@@ -14,6 +14,8 @@ import ImgAdd from 'page/backgPage/Img/add.vue'
 import regist from 'page/receptPage/user/regist.vue'
 import active from 'page/receptPage/user/active.vue'
 import login from 'page/receptPage/user/login.vue'
+import aboutMe from 'page/receptPage/user/aboutMe.vue'
+import completeInfo from 'page/receptPage/user/completeInfo.vue'
 import Index from 'page/receptPage/index/index.vue'
 import IndexPage from 'page/receptPage/index/indexPage.vue'
 import proDetails0 from 'page/receptPage/pro/proDetails0.vue'
@@ -197,8 +199,11 @@ export default {
                 component: proAddSuccess,
             },{ 
                 path: '/cersonMsg',
-                component: cersonMsg }
-            ]
+                component: cersonMsg 
+            },{ path: '/aboutMe',
+                name: '我的相关', 
+                component: aboutMe }
+            ],
         },{
             path:'/regist',
             component: regist
@@ -208,6 +213,7 @@ export default {
         },{
             path:'/login',
             component: login
-        }
+        },
+        { path: '/completeInfo', name: '完善信息', component: completeInfo }
     ]
 }
